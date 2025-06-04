@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <g id="noon_scene" transform="translate(-1073 -139)">
+    <g id="Group_1517" data-name="Group 1517" transform="translate(850 -485)">
+      <circle id="Ellipse_309" data-name="Ellipse 309" cx="6" cy="6" r="6" transform="translate(231 632)" fill="#333"/>
+      <circle id="Ellipse_310" data-name="Ellipse 310" cx="2" cy="2" r="2" transform="translate(235 624)" fill="#999"/>
+      <circle id="Ellipse_310-2" data-name="Ellipse 310" cx="2" cy="2" r="2" transform="translate(245.192 626.979) rotate(45)" fill="#999"/>
+      <circle id="Ellipse_310-3" data-name="Ellipse 310" cx="2" cy="2" r="2" transform="translate(251 636) rotate(90)" fill="#999"/>
+      <circle id="Ellipse_310-4" data-name="Ellipse 310" cx="2" cy="2" r="2" transform="translate(248.021 646.192) rotate(135)" fill="#999"/>
+      <circle id="Ellipse_310-5" data-name="Ellipse 310" cx="2" cy="2" r="2" transform="translate(239 652) rotate(180)" fill="#999"/>
+      <circle id="Ellipse_310-6" data-name="Ellipse 310" cx="2" cy="2" r="2" transform="translate(228.808 649.021) rotate(-135)" fill="#999"/>
+      <circle id="Ellipse_310-7" data-name="Ellipse 310" cx="2" cy="2" r="2" transform="translate(223 640) rotate(-90)" fill="#999"/>
+      <circle id="Ellipse_310-8" data-name="Ellipse 310" cx="2" cy="2" r="2" transform="translate(224.979 629.808) rotate(-45)" fill="#999"/>
+    </g>
+    <rect id="boundingbox" width="28" height="28" transform="translate(1073 139)" fill="none"/>
+  </g>
+</svg>

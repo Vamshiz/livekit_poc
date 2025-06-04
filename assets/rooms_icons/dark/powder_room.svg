@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 54 54">
+  <g id="powder_room" transform="translate(-450 -1865)">
+    <rect id="Rectangle_3422" data-name="Rectangle 3422" width="54" height="54" transform="translate(450 1865)" fill="none"/>
+    <g id="Group_4966" data-name="Group 4966" transform="translate(0 0.721)">
+      <path id="Ellipse_1026" data-name="Ellipse 1026" d="M11.825,1.885a9.94,9.94,0,1,0,9.94,9.94,9.951,9.951,0,0,0-9.94-9.94m0-1.885A11.825,11.825,0,1,1,0,11.825,11.825,11.825,0,0,1,11.825,0Z" transform="translate(464.797 1864.279)" fill="#77b97b"/>
+      <path id="Path_1558" data-name="Path 1558" d="M9581.126-499.887h-.942v-2.476h-.936v-.886a2.111,2.111,0,0,1,.42-1.545.746.746,0,0,1,.642-.169l.041.008.037.015c.709.27.745,1.352.738,1.686Z" transform="translate(-9093.588 2394.406)" fill="#77b97b"/>
+      <path id="Line_830" data-name="Line 830" d="M.885,4.178H-1V0H.885Z" transform="translate(487.125 1894.367)" fill="#77b97b"/>
+      <path id="Line_831" data-name="Line 831" d="M43.3.885H-.057A.943.943,0,0,1-1-.057.943.943,0,0,1-.057-1H43.3a.943.943,0,0,1,.943.943A.943.943,0,0,1,43.3.885Z" transform="translate(455 1898.712)" fill="#77b97b"/>
+      <path id="Line_832" data-name="Line 832" d="M.62,19.708H-.7V0H.62Z" transform="translate(461.289 1898.571)" fill="#77b97b"/>
+      <path id="Line_833" data-name="Line 833" d="M.62,19.708H-.7V0H.62Z" transform="translate(492.034 1898.571)" fill="#77b97b"/>
+      <path id="Rectangle_3089" data-name="Rectangle 3089" d="M1.885.943a.944.944,0,0,0-.943.943V4.439H3.153V1.885A.944.944,0,0,0,2.211.943H1.885m0-.943h.326A1.885,1.885,0,0,1,4.1,1.885v3.5H0v-3.5A1.885,1.885,0,0,1,1.885,0Z" transform="translate(463.854 1892.795)" fill="#77b97b"/>
+      <path id="Path_1559" data-name="Path 1559" d="M9382.949-513.907a.471.471,0,0,1-.471-.471v-1.929h-.691v1.8a.471.471,0,0,1-.472.471.47.47,0,0,1-.471-.471v-2.271a.47.47,0,0,1,.471-.471h1.634a.471.471,0,0,1,.472.471v2.4A.471.471,0,0,1,9382.949-513.907Z" transform="translate(-8916.229 2407.672)" fill="#77b97b"/>
+      <path id="Line_835" data-name="Line 835" d="M30.745.62H0V-.7H30.745Z" transform="translate(461.249 1902.553)" fill="#77b97b"/>
+    </g>
+  </g>
+</svg>

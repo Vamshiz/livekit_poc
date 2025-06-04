@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 54 54">
+  <g id="home_theatre" transform="translate(-454 -961)">
+    <rect id="Rectangle_3418" data-name="Rectangle 3418" width="54" height="54" transform="translate(454 961)" fill="none"/>
+    <g id="Group_4962" data-name="Group 4962" transform="translate(-2.542 -0.799)">
+      <path id="Rectangle_3418-2" data-name="Rectangle 3418" d="M1.593,1.593v34.2h1.66V1.593H1.593M1.138,0h2.57A1.138,1.138,0,0,1,4.846,1.138V36.247a1.138,1.138,0,0,1-1.138,1.138H1.138A1.138,1.138,0,0,1,0,36.247V1.138A1.138,1.138,0,0,1,1.138,0Z" transform="translate(464.85 1008.065) rotate(-90)" fill="#c29cea"/>
+      <path id="Rectangle_3154" data-name="Rectangle 3154" d="M1.961,1.746V27.535H52.154V1.746M0,0H54V29.455H0Z" transform="translate(456.542 969.799)" fill="#c29cea"/>
+    </g>
+  </g>
+</svg>

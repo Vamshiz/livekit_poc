@@ -1,0 +1,12 @@
+<svg id="blinds" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_3245" data-name="Rectangle 3245" width="24" height="24" fill="none"/>
+  <g id="Group_5285" data-name="Group 5285" transform="translate(-238 -650)">
+    <rect id="Rectangle_3183" data-name="Rectangle 3183" width="20" height="2" transform="translate(240 654)"/>
+    <path id="Line_748" data-name="Line 748" d="M16.031.5H0v-1H16.031Z" transform="translate(241.969 657.5)"/>
+    <path id="Line_749" data-name="Line 749" d="M16.031.5H0v-1H16.031Z" transform="translate(241.969 660.5)"/>
+    <path id="Line_750" data-name="Line 750" d="M16.031.5H0v-1H16.031Z" transform="translate(241.969 663.5)"/>
+    <path id="Line_751" data-name="Line 751" d="M16.031.5H0v-1H16.031Z" transform="translate(241.969 666.5)"/>
+    <path id="Line_752" data-name="Line 752" d="M.25,16h-.5V0h.5Z" transform="translate(259 654.5)"/>
+    <circle id="Ellipse_1048" data-name="Ellipse 1048" cx="1" cy="1" r="1" transform="translate(258 669)"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="ac_fan" transform="translate(-20 -880)">
+    <g id="Group_1635" data-name="Group 1635" transform="translate(-20 -37)">
+      <rect id="Rectangle_1171" data-name="Rectangle 1171" width="24" height="24" transform="translate(40 917)" fill="none"/>
+    </g>
+    <g id="Group_1634" data-name="Group 1634" transform="translate(2 344)">
+      <path id="Union_38" data-name="Union 38" d="M1599.532,3621.7c-.507-1.519,1.881-5.7,2.471-6.7v0h0c-1,.591-5.184,2.978-6.7,2.471-1.73-.578-1.73-4.262,0-4.912,1.428-.537,5.215,1.389,6.492,2.076-.806-1.406-2.716-4.961-2.257-6.335.578-1.729,4.262-1.729,4.912,0,.5,1.32-1.108,4.649-1.9,6.157,1.508-.79,4.838-2.394,6.157-1.9,1.73.65,1.73,4.334,0,4.912-1.374.459-4.93-1.452-6.336-2.258.687,1.275,2.614,5.064,2.077,6.493a2.549,2.549,0,0,1-2.483,1.3A2.433,2.433,0,0,1,1599.532,3621.7Z" transform="translate(-1572 -3067)" fill="none" stroke="#999" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+    <circle id="Ellipse_633" data-name="Ellipse 633" cx="3" cy="3" r="3" transform="translate(29 889)" fill="#999"/>
+  </g>
+</svg>

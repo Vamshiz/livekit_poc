@@ -1,0 +1,13 @@
+<svg id="ac_fan" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_1039" data-name="Rectangle 1039" width="24" height="24" fill="none"/>
+  <g id="Group_1657" data-name="Group 1657" transform="translate(-930.5 -717.5)">
+    <path id="Path_492" data-name="Path 492" d="M0,0V6.631s3.316-.176,3.316-3.354S0,0,0,0Z" transform="translate(949.5 729.5) rotate(90)" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_582" data-name="Path 582" d="M0,0V6.631s3.316-.176,3.316-3.354S0,0,0,0Z" transform="translate(935.5 729.5) rotate(-90)" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_583" data-name="Path 583" d="M0,0V6.631s3.316-.176,3.316-3.354S0,0,0,0Z" transform="translate(942.5 736.5) rotate(180)" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_584" data-name="Path 584" d="M5232.182,5947.515v6.632s3.315-.177,3.315-3.354S5232.182,5947.515,5232.182,5947.515Z" transform="translate(-4289.682 -5225.015)" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+  <g id="Ellipse_803" data-name="Ellipse 803" transform="translate(2 2)" fill="none" stroke="#666" stroke-width="1">
+    <circle cx="10" cy="10" r="10" stroke="none"/>
+    <circle cx="10" cy="10" r="9.5" fill="none"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg id="hswing" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Path_736" data-name="Path 736" d="M1900.041-114.7v-8h8Z" transform="translate(-1897.541 125.201)" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  <line id="Line_419" data-name="Line 419" x2="3" y2="3" transform="translate(9 9)" fill="none" stroke="#666" stroke-linecap="round" stroke-width="1.5"/>
+  <line id="Line_420" data-name="Line 420" y2="4" transform="translate(6 10)" fill="none" stroke="#666" stroke-linecap="round" stroke-width="1.5"/>
+  <line id="Line_421" data-name="Line 421" x2="4" transform="translate(10 6)" fill="none" stroke="#666" stroke-linecap="round" stroke-width="1.5"/>
+  <g id="Group_2467" data-name="Group 2467" transform="translate(-378.323 -123.765) rotate(-45)">
+    <path id="Path_650" data-name="Path 650" d="M2423.568,4391.337h-4v4" transform="matrix(0.966, -0.259, 0.259, 0.966, -3303.134, -3242.89)" fill="none" stroke="#666" stroke-width="1.5"/>
+    <path id="Path_653" data-name="Path 653" d="M4,4H0V0" transform="matrix(-0.966, -0.259, 0.259, -0.966, 188.414, 376.5)" fill="none" stroke="#666" stroke-width="1.5"/>
+    <path id="Path_651" data-name="Path 651" d="M7.662-.091s2.58,4.558,2.58,9-2.58,8.972-2.58,8.972" transform="translate(188.881 365.357) rotate(90)" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <rect id="Rectangle_1519" data-name="Rectangle 1519" width="24" height="24" fill="none"/>
+</svg>

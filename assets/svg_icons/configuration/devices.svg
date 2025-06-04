@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="devices" transform="translate(-20 -880)">
+    <rect id="Rectangle_1239" data-name="Rectangle 1239" width="24" height="24" transform="translate(20 880)" fill="none"/>
+    <g id="Rectangle_1240" data-name="Rectangle 1240" transform="translate(25 882)" fill="none" stroke="#999" stroke-width="1">
+      <rect width="14" height="20" rx="3" stroke="none"/>
+      <rect x="0.5" y="0.5" width="13" height="19" rx="2.5" fill="none"/>
+    </g>
+    <path id="Subtraction_82" data-name="Subtraction 82" d="M-1021-4237h-8a3,3,0,0,1-3-3v-3h14v3A3,3,0,0,1-1021-4237Zm-4-5a2,2,0,0,0-2,2,2,2,0,0,0,2,2,2,2,0,0,0,2-2A2,2,0,0,0-1025-4242Z" transform="translate(1057 5139)" fill="#999"/>
+  </g>
+</svg>

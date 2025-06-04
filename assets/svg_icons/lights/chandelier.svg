@@ -1,0 +1,12 @@
+<svg id="chandler_list" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_1181" data-name="Rectangle 1181" width="24" height="24" fill="none"/>
+  <g id="Group_1763" data-name="Group 1763" transform="translate(-1004 -285)">
+    <path id="Path_589" data-name="Path 589" d="M8,35v2.517a4,4,0,1,1-8,0V35" transform="translate(1016 264)" fill="none" stroke="#212121" stroke-width="1"/>
+    <path id="Path_266" data-name="Path 266" d="M8,35v2.517a4,4,0,1,1-8,0V35" transform="translate(1008 264)" fill="none" stroke="#212121" stroke-width="1"/>
+    <line id="Line_136" data-name="Line 136" y1="3.709" transform="translate(1016 293.5)" fill="none" stroke="#212121" stroke-linecap="round" stroke-width="1"/>
+    <path id="Path_531" data-name="Path 531" d="M2113.929,4557.463s2.75,5.133,5.5,5.133,5.5-5.133,5.5-5.133Z" transform="translate(-1103.429 -4268.963)" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <circle id="Ellipse_98" data-name="Ellipse 98" cx="2" cy="2" r="2" transform="translate(1022 297)" fill="#212121"/>
+    <circle id="Ellipse_499" data-name="Ellipse 499" cx="2" cy="2" r="2" transform="translate(1006 297)" fill="#212121"/>
+    <circle id="Ellipse_500" data-name="Ellipse 500" cx="2" cy="2" r="2" transform="translate(1014 297)" fill="#212121"/>
+  </g>
+</svg>

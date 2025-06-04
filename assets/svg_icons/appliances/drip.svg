@@ -1,0 +1,14 @@
+<svg id="drip" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_3266" data-name="Rectangle 3266" width="24" height="24" fill="none"/>
+  <g id="Group_5309" data-name="Group 5309" transform="translate(-308 -953.226)">
+    <g id="Group_4627" data-name="Group 4627" transform="translate(67 -2.774)">
+      <path id="Rectangle_3207" data-name="Rectangle 3207" d="M1,1V7H3V1H1M1,0H4V8H1A1,1,0,0,1,0,7V1A1,1,0,0,1,1,0Z" transform="translate(249.5 961)"/>
+      <path id="Rectangle_3208" data-name="Rectangle 3208" d="M1,1V7H3V1H1M0,0H4V8H0Z" transform="translate(252.5 961)"/>
+      <path id="Line_794" data-name="Line 794" d="M8,.5H0v-1H8Z" transform="translate(256 962.5)"/>
+      <path id="Line_797" data-name="Line 797" d="M8,.5H0v-1H8Z" transform="translate(242 962.5)"/>
+      <path id="Line_795" data-name="Line 795" d="M8,.5H0v-1H8Z" transform="translate(256 967.5)"/>
+      <path id="Line_796" data-name="Line 796" d="M8,.5H0v-1H8Z" transform="translate(242 967.5)"/>
+      <path id="Path_1908" data-name="Path 1908" d="M2950.521,3629.906a5.416,5.416,0,0,1-1.137,2.5c-.984,1.214-.737,2.706.279,3.222a1.721,1.721,0,0,0,2.391-.687,2.334,2.334,0,0,0-.437-2.534A7.316,7.316,0,0,1,2950.521,3629.906Z" transform="translate(-2697.753 -2661.304)"/>
+    </g>
+  </g>
+</svg>

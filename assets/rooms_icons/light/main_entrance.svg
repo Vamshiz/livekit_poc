@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_10947" data-name="Group 10947" transform="translate(-308 -223)">
+    <rect id="Rectangle_3416" data-name="Rectangle 3416" width="24" height="24" transform="translate(308 223)" fill="none"/>
+    <g id="Group_4960" data-name="Group 4960" transform="translate(308 226.111)">
+      <path id="Rectangle_3042" data-name="Rectangle 3042" d="M1.178.442a.737.737,0,0,0-.736.736v16.34H14.471V1.178a.737.737,0,0,0-.736-.736H1.178m0-.442H13.735a1.178,1.178,0,0,1,1.178,1.178V17.959H0V1.178A1.178,1.178,0,0,1,1.178,0Z" transform="translate(4.245 0)" fill="#356d88"/>
+      <path id="Rectangle_3043" data-name="Rectangle 3043" d="M.295.295V5.869H3.782V.295H.295M0,0H4.076V6.164H0Z" transform="translate(5.935 2.519)" fill="#356d88"/>
+      <path id="Rectangle_3045" data-name="Rectangle 3045" d="M.295.295V3.98H3.782V.295H.295M0,0H4.076V4.275H0Z" transform="translate(5.935 11.38)" fill="#356d88"/>
+      <path id="Rectangle_3044" data-name="Rectangle 3044" d="M.295.295V5.869H3.782V.295H.295M0,0H4.076V6.164H0Z" transform="translate(13.392 2.519)" fill="#356d88"/>
+      <path id="Rectangle_3046" data-name="Rectangle 3046" d="M.295.295V3.98H3.782V.295H.295M0,0H4.076V4.275H0Z" transform="translate(13.392 11.38)" fill="#356d88"/>
+      <path id="Line_818" data-name="Line 818" d="M-.205,17.582H-.5V0h.295Z" transform="translate(12.104 0.228)" fill="#356d88"/>
+      <path id="Rectangle_3047" data-name="Rectangle 3047" d="M.589.295A.3.3,0,0,0,.295.589V1.4a.3.3,0,0,0,.295.295H1.4A.3.3,0,0,0,1.694,1.4V.589A.3.3,0,0,0,1.4.295H.589M.589,0H1.4a.589.589,0,0,1,.589.589V1.4a.589.589,0,0,1-.589.589H.589A.589.589,0,0,1,0,1.4V.589A.589.589,0,0,1,.589,0Z" transform="translate(10.708 8.683)" fill="#356d88"/>
+      <path id="Rectangle_3048" data-name="Rectangle 3048" d="M.615.438A.177.177,0,0,0,.438.615v.922a.177.177,0,0,0,.354,0V.615A.177.177,0,0,0,.615.438M.615,0A.615.615,0,0,1,1.23.615v.922a.615.615,0,0,1-1.23,0V.615A.615.615,0,0,1,.615,0Z" transform="translate(20.762 4.994)" fill="#356d88"/>
+      <path id="Rectangle_3049" data-name="Rectangle 3049" d="M.615.438A.177.177,0,0,0,.438.615v.922a.177.177,0,0,0,.354,0V.615A.177.177,0,0,0,.615.438M.615,0A.615.615,0,0,1,1.23.615v.922a.615.615,0,0,1-1.23,0V.615A.615.615,0,0,1,.615,0Z" transform="translate(1.086 4.994)" fill="#356d88"/>
+      <path id="Line_817" data-name="Line 817" d="M23.281-.062H-.281A.219.219,0,0,1-.5-.281.219.219,0,0,1-.281-.5H23.281a.219.219,0,0,1,.219.219A.219.219,0,0,1,23.281-.062Z" transform="translate(0.5 18.092)" fill="#356d88"/>
+    </g>
+  </g>
+</svg>

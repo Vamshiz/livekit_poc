@@ -1,0 +1,11 @@
+<svg id="table_lamp_list" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_992" data-name="Rectangle 992" width="24" height="24" fill="none"/>
+  <g id="Group_1306" data-name="Group 1306" transform="translate(-48 -546.284)">
+    <g id="Group_1661" data-name="Group 1661" transform="translate(0 -1)">
+      <path id="Path_488" data-name="Path 488" d="M3.214,2.492a8.688,8.688,0,0,1,11.571,0C14.823,2.541,18,11.362,18,11.362H0S3.211,2.537,3.214,2.492Z" transform="translate(51 550.499)" fill="none" stroke="#212121" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Line_133" data-name="Line 133" x2="10" transform="translate(55 568.284)" fill="none" stroke="#212121" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_134" data-name="Line 134" y2="4" transform="translate(60 564)" fill="none" stroke="#212121" stroke-linecap="round" stroke-width="1"/>
+      <ellipse id="Ellipse_94" data-name="Ellipse 94" cx="9.5" cy="1.9" rx="9.5" ry="1.9" transform="translate(50.5 560)" fill="#212121"/>
+    </g>
+  </g>
+</svg>

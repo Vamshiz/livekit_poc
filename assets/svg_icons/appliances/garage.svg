@@ -1,0 +1,13 @@
+<svg id="garage" xmlns="http://www.w3.org/2000/svg" width="24.001" height="24" viewBox="0 0 24.001 24">
+  <rect id="Rectangle_3267" data-name="Rectangle 3267" width="24" height="24" fill="none"/>
+  <g id="Group_5310" data-name="Group 5310" transform="translate(-106.57 -951.854)">
+    <path id="Path_1906" data-name="Path 1906" d="M2390.5,3795.46v-13.97l9.039-4.009,8.917,4.009v13.97h-2.617v-11.875H2393.2v11.875Z" transform="translate(-2280.447 -2821.606)"/>
+    <path id="Path_1907" data-name="Path 1907" d="M2387.8,3781.524a.465.465,0,0,1-.43-.314.515.515,0,0,1,.258-.65l12.01-5.19a.435.435,0,0,1,.344,0l11.064,4.8a.515.515,0,0,1,.257.65.453.453,0,0,1-.6.278l-10.892-4.723-11.838,5.116A.435.435,0,0,1,2387.8,3781.524Z" transform="translate(-2280.761 -2821.479)"/>
+    <path id="Line_788" data-name="Line 788" d="M13,.5H0v-1H13Z" transform="translate(112.466 965.361)"/>
+    <path id="Line_793" data-name="Line 793" d="M13,.5H0v-1H13Z" transform="translate(112.466 963.386)"/>
+    <path id="Line_789" data-name="Line 789" d="M13,.5H0v-1H13Z" transform="translate(112.466 967.336)"/>
+    <path id="Line_792" data-name="Line 792" d="M13,.5H0v-1H13Z" transform="translate(112.466 971.26)"/>
+    <path id="Line_790" data-name="Line 790" d="M13,.5H0v-1H13Z" transform="translate(112.466 969.311)"/>
+    <path id="Line_791" data-name="Line 791" d="M13,.5H0v-1H13Z" transform="translate(112.466 973.26)"/>
+  </g>
+</svg>

@@ -1,0 +1,132 @@
+{
+    "activities": [
+      {
+        "activityId": "activity_001",
+        "activityType": 1,
+        "activitySourceInfo": {
+          "activitySource": "mobile",
+          "activityBy": "user1",
+          "activityUser": "admin",
+          "activityTime": 1696152000
+        },
+        "activityControlIdentifier": {
+          "applianceId": "appliance_001",
+          "applianceName": "Smart Light",
+          "applianceRoomId": "room_001",
+          "applianceRoomName": "Living Room"
+        },
+        "acitivityMetaInfo": {
+          "deviceMetaInfo": {
+            "smartConsoleRelayMetaInfo": {
+              "deviceCategory": "lighting",
+              "deviceName": "Smart Light",
+              "deviceRoomId": "room_001",
+              "deviceSectionId": "section_001",
+              "deviceRoomName": "Living Room",
+              "deviceSectionName": "Main"
+            }
+          }
+        },
+        "activityAction": {
+          "deviceAction": {
+            "smartConsoleRelayState": {
+              "relayState": 1
+            }
+          }
+        }
+      },
+      {
+        "activityId": "activity_002",
+        "activityType": 2,
+        "activitySourceInfo": {
+          "activitySource": "voice",
+          "activityBy": "user2",
+          "activityUser": "guest",
+          "activityTime": 1696155600
+        },
+        "activityControlIdentifier": {
+          "applianceId": "appliance_002",
+          "applianceName": "Smart AC",
+          "applianceRoomId": "room_002",
+          "applianceRoomName": "Bedroom"
+        },
+        "acitivityMetaInfo": {
+          "deviceMetaInfo": {
+            "smartConsoleRelayMetaInfo": {
+              "deviceCategory": "climate",
+              "deviceName": "Smart AC",
+              "deviceRoomId": "room_002",
+              "deviceSectionId": "section_002",
+              "deviceRoomName": "Bedroom",
+              "deviceSectionName": "Upper"
+            }
+          }
+        },
+        "activityAction": {
+          "onOffState": {
+            "onState": true
+          }
+        }
+      },
+      {
+        "activityId": "activity_003",
+        "activityType": 3,
+        "activitySourceInfo": {
+          "activitySource": "schedule",
+          "activityBy": "automation",
+          "activityUser": "system",
+          "activityTime": 1696160000
+        },
+        "activityControlIdentifier": {
+          "applianceId": "appliance_003",
+          "applianceName": "Curtain Motor",
+          "applianceRoomId": "room_003",
+          "applianceRoomName": "Office"
+        },
+        "acitivityMetaInfo": {
+          "groupMetaInfo": {
+            "groupType": 1,
+            "groupName": "Window",
+            "groupRoomId": "room_003",
+            "groupRoomName": "Office"
+          }
+        },
+        "activityAction": {
+          "openCloseState": {
+            "openCloseState": 0
+          }
+        }
+      },
+      {
+        "activityId": "activity_004",
+        "activityType": 4,
+        "activitySourceInfo": {
+          "activitySource": "remote",
+          "activityBy": "user3",
+          "activityUser": "guest",
+          "activityTime": 1696163600
+        },
+        "activityControlIdentifier": {
+          "applianceId": "appliance_004",
+          "applianceName": "Smart Door",
+          "applianceRoomId": "room_004",
+          "applianceRoomName": "Entrance"
+        },
+        "acitivityMetaInfo": {
+          "sceneMetaInfo": {
+            "sceneType": 1,
+            "scenePresetType": 0,
+            "sceneName": "Evening",
+            "sceneRoomId": "room_004",
+            "sceneRoomName": "Entrance"
+          }
+        },
+        "activityAction": {
+          "doorLockState": {
+            "lockState": 1,
+            "doorState": 0,
+            "updateType": 2
+          }
+        }
+      }
+    ]}

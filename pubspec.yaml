@@ -1,0 +1,35 @@
+name: livekit_poc
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dart_nats:
+    path: ../dart_nats
+  freezed_annotation: ^2.4.4
+  flutter_svg: ^1.0.3
+  flutter_sound: ^9.28.0
+  equatable: ^2.0.7
+  livekit_client: ^2.4.7
+  collection: ^1.19.1
+  permission_handler: ^11.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  freezed: ^2.5.7
+  json_serializable: ^6.8.0
+  build_runner: ^2.4.12
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/keus_communicator/

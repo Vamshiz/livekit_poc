@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="dimmer_high" transform="translate(-835 -837)">
+    <rect id="Rectangle_1185" data-name="Rectangle 1185" width="24" height="24" transform="translate(835 837)" opacity="0"/>
+    <g id="Group_1571" data-name="Group 1571" transform="translate(-63 11)">
+      <circle id="Ellipse_309" data-name="Ellipse 309" cx="5" cy="5" r="5" transform="translate(905 833)" fill="#333"/>
+      <circle id="Ellipse_310" data-name="Ellipse 310" cx="1.5" cy="1.5" r="1.5" transform="translate(908.5 828)" fill="#999"/>
+      <circle id="Ellipse_600" data-name="Ellipse 600" cx="1.5" cy="1.5" r="1.5" transform="translate(916.122 830) rotate(45)" fill="#999"/>
+      <circle id="Ellipse_602" data-name="Ellipse 602" cx="1.5" cy="1.5" r="1.5" transform="translate(920 836.5) rotate(90)" fill="#999"/>
+      <circle id="Ellipse_604" data-name="Ellipse 604" cx="1.5" cy="1.5" r="1.5" transform="translate(918.243 844.121) rotate(135)" fill="#999"/>
+      <circle id="Ellipse_606" data-name="Ellipse 606" cx="1.5" cy="1.5" r="1.5" transform="translate(911.5 848) rotate(180)" fill="#999"/>
+      <circle id="Ellipse_608" data-name="Ellipse 608" cx="1.5" cy="1.5" r="1.5" transform="translate(904.122 846.243) rotate(-135)" fill="#999"/>
+      <circle id="Ellipse_610" data-name="Ellipse 610" cx="1.5" cy="1.5" r="1.5" transform="translate(900 839.5) rotate(-90)" fill="#999"/>
+      <circle id="Ellipse_612" data-name="Ellipse 612" cx="1.5" cy="1.5" r="1.5" transform="translate(902 832.121) rotate(-45)" fill="#999"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg id="downlight" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_3215" data-name="Rectangle 3215" width="24" height="24" fill="none"/>
+  <g id="Group_1662" data-name="Group 1662" transform="translate(-13 -551.5)">
+    <path id="Line_128" data-name="Line 128" d="M18,.5H0A.5.5,0,0,1-.5,0,.5.5,0,0,1,0-.5H18a.5.5,0,0,1,.5.5A.5.5,0,0,1,18,.5Z" transform="translate(16 554.5)" fill="#212121"/>
+    <path id="Path_484" data-name="Path 484" d="M1162.037,5409.507a.5.5,0,0,1-.5-.5v-11.44h15v7.892a.5.5,0,0,1-1,0v-6.892h-13v10.44A.5.5,0,0,1,1162.037,5409.507Z" transform="translate(-1144.037 -4843.566)" fill="#212121"/>
+    <ellipse id="Ellipse_170" data-name="Ellipse 170" cx="7.7" cy="2.143" rx="7.7" ry="2.143" transform="matrix(0.966, -0.259, 0.259, 0.966, 17, 563.704)" fill="#212121"/>
+    <path id="Line_516" data-name="Line 516" d="M4,.75H0A.75.75,0,0,1-.75,0,.75.75,0,0,1,0-.75H4A.75.75,0,0,1,4.75,0,.75.75,0,0,1,4,.75Z" transform="matrix(0.259, 0.966, -0.966, 0.259, 26.742, 569.184)" fill="#212121"/>
+    <path id="Line_517" data-name="Line 517" d="M0,3.75a.748.748,0,0,1-.53-.22.75.75,0,0,1,0-1.061l3-3a.75.75,0,0,1,1.061,0A.75.75,0,0,1,3.53.53l-3,3A.748.748,0,0,1,0,3.75Z" transform="matrix(0.259, 0.966, -0.966, 0.259, 32.984, 565.441)" fill="#212121"/>
+    <path id="Line_518" data-name="Line 518" d="M3,3.75a.748.748,0,0,1-.53-.22l-3-3A.75.75,0,0,1-.53-.53.75.75,0,0,1,.53-.53l3,3A.75.75,0,0,1,3,3.75Z" transform="matrix(0.259, 0.966, -0.966, 0.259, 22.359, 568.288)" fill="#212121"/>
+  </g>
+</svg>

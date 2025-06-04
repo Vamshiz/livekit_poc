@@ -1,0 +1,12 @@
+<svg id="bollards" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_3235" data-name="Rectangle 3235" width="24" height="24" fill="none"/>
+  <g id="Group_5252" data-name="Group 5252" transform="translate(-240 -448)">
+    <g id="Group_4612" data-name="Group 4612" transform="translate(0 20)">
+      <path id="Rectangle_3173" data-name="Rectangle 3173" d="M1,1V17H7V1H1M0,0H8V18H0Z" transform="translate(248 430)"/>
+      <path id="Rectangle_3174" data-name="Rectangle 3174" d="M1,1V2H13V1H1M0,0H14V3H0Z" transform="translate(245 447)"/>
+      <path id="Line_736" data-name="Line 736" d="M7,.5H0A.5.5,0,0,1-.5,0,.5.5,0,0,1,0-.5H7a.5.5,0,0,1,.5.5A.5.5,0,0,1,7,.5Z" transform="translate(248.5 432.5)"/>
+      <path id="Line_737" data-name="Line 737" d="M7,.5H0A.5.5,0,0,1-.5,0,.5.5,0,0,1,0-.5H7a.5.5,0,0,1,.5.5A.5.5,0,0,1,7,.5Z" transform="translate(248.5 442.5)"/>
+      <path id="Line_738" data-name="Line 738" d="M0,4.5A.5.5,0,0,1-.5,4V0A.5.5,0,0,1,0-.5.5.5,0,0,1,.5,0V4A.5.5,0,0,1,0,4.5Z" transform="translate(253.5 435.5)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg id="gate" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_3264" data-name="Rectangle 3264" width="24" height="24" fill="none"/>
+  <g id="gate-2" data-name="gate" transform="translate(-41.5 -362)">
+    <g id="Group_2622" data-name="Group 2622" transform="translate(-270.5 -253)">
+      <g id="Group_2619" data-name="Group 2619" transform="translate(53 -99)">
+        <path id="Rectangle_1858" data-name="Rectangle 1858" d="M9.5,1.618A9.515,9.515,0,0,0,1.5,11V22.5h8V1.618M11,0V24H0V11A11,11,0,0,1,11,0Z" transform="translate(260 714)"/>
+        <path id="Rectangle_1859" data-name="Rectangle 1859" d="M1.5,1.618V22.5h8V11a9.515,9.515,0,0,0-8-9.382M0,0A11,11,0,0,1,11,11V24H0Z" transform="translate(272 714)"/>
+        <path id="Line_479" data-name="Line 479" d="M0,20.633a.75.75,0,0,1-.75-.75V0A.75.75,0,0,1,0-.75.75.75,0,0,1,.75,0V19.883A.75.75,0,0,1,0,20.633Z" transform="translate(277.5 716.5)"/>
+        <path id="Line_480" data-name="Line 480" d="M0,20.633a.75.75,0,0,1-.75-.75V0A.75.75,0,0,1,0-.75.75.75,0,0,1,.75,0V19.883A.75.75,0,0,1,0,20.633Z" transform="translate(265.5 716.5)"/>
+        <path id="Line_481" data-name="Line 481" d="M10,.75H0V-.75H10Z" transform="translate(260.5 734.5)"/>
+        <path id="Line_482" data-name="Line 482" d="M10,.75H0V-.75H10Z" transform="translate(272.5 734.5)"/>
+        <rect id="Rectangle_1879" data-name="Rectangle 1879" width="10" height="2" transform="translate(260.5 735)"/>
+        <rect id="Rectangle_1880" data-name="Rectangle 1880" width="10" height="2" transform="translate(272.5 735)"/>
+      </g>
+    </g>
+  </g>
+</svg>

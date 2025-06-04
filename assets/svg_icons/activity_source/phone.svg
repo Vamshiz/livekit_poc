@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="phone" transform="translate(-119 -462)">
+    <rect id="Rectangle_2004" data-name="Rectangle 2004" width="16" height="16" transform="translate(119 462)" fill="none"/>
+    <g id="Group_3303" data-name="Group 3303" transform="translate(86 -71.5)">
+      <g id="Rectangle_1240" data-name="Rectangle 1240" transform="translate(36 534.5)" fill="none" stroke="#666" stroke-width="1">
+        <rect width="10" height="14" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="9" height="13" rx="1.5" fill="none"/>
+      </g>
+      <path id="Subtraction_82" data-name="Subtraction 82" d="M8,4H2A2,2,0,0,1,0,2V0H10V2A2,2,0,0,1,8,4ZM5,1A1,1,0,1,0,6,2,1,1,0,0,0,5,1Z" transform="translate(36 544.499)" fill="#666"/>
+    </g>
+  </g>
+</svg>

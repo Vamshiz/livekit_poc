@@ -1,0 +1,15 @@
+<svg id="washing" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_3255" data-name="Rectangle 3255" width="24" height="24" fill="none"/>
+  <g id="Group_5300" data-name="Group 5300" transform="translate(-526 -849)">
+    <g id="Group_4629" data-name="Group 4629">
+      <path id="Rectangle_3193" data-name="Rectangle 3193" d="M1,1V23H19V1H1M0,0H20V24H0Z" transform="translate(528 849)"/>
+      <path id="Line_762" data-name="Line 762" d="M19,.5H0A.5.5,0,0,1-.5,0,.5.5,0,0,1,0-.5H19a.5.5,0,0,1,.5.5A.5.5,0,0,1,19,.5Z" transform="translate(528.5 853.5)"/>
+      <path id="Ellipse_1056" data-name="Ellipse 1056" d="M5,1A4,4,0,1,0,9,5,4,4,0,0,0,5,1M5,0A5,5,0,1,1,0,5,5,5,0,0,1,5,0Z" transform="translate(533 859)"/>
+      <path id="Ellipse_1057" data-name="Ellipse 1057" d="M7,1a6,6,0,1,0,6,6A6.007,6.007,0,0,0,7,1M7,0A7,7,0,1,1,0,7,7,7,0,0,1,7,0Z" transform="translate(531 857)"/>
+      <path id="Path_1886" data-name="Path 1886" d="M5,5c.938.313,2.438,2.063,5,0A5,5,0,0,1,0,5,5.222,5.222,0,0,1,5,5Z" transform="translate(533 859)"/>
+      <circle id="Ellipse_1058" data-name="Ellipse 1058" cx="0.5" cy="0.5" r="0.5" transform="translate(542 851)"/>
+      <circle id="Ellipse_1060" data-name="Ellipse 1060" cx="0.5" cy="0.5" r="0.5" transform="translate(540 851)"/>
+      <circle id="Ellipse_1059" data-name="Ellipse 1059" cx="0.5" cy="0.5" r="0.5" transform="translate(544 851)"/>
+    </g>
+  </g>
+</svg>

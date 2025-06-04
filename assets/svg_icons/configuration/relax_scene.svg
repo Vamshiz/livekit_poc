@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.645" height="18.964" viewBox="0 0 16.645 18.964">
+  <g id="Group_1550" data-name="Group 1550" transform="translate(48.116 -1100)">
+    <g id="Group_652" data-name="Group 652" transform="translate(-47.471 1100)">
+      <g id="Ellipse_272" data-name="Ellipse 272" transform="translate(11.529)" fill="none" stroke="#f48edf" stroke-width="1">
+        <circle cx="2.236" cy="2.236" r="2.236" stroke="none"/>
+        <circle cx="2.236" cy="2.236" r="1.736" fill="none"/>
+      </g>
+      <path id="Union_35" data-name="Union 35" d="M.554,10.087a1.894,1.894,0,0,1,0-2.678L3.349,4.614l-.058-.056.164-.05.076-.076.041.041,3.1-.941L9.645.555a1.893,1.893,0,1,1,2.677,2.678L9.345,6.209,6.179,7.14,3.232,10.087a1.894,1.894,0,0,1-2.678,0Z" transform="translate(0 5.248)" fill="none" stroke="#f48edf" stroke-width="1"/>
+      <path id="Path_360" data-name="Path 360" d="M-64.08,1113.568l3.616-3.615,2.746-.614,4.4-4.4" transform="translate(68.097 -1096.042)" fill="none" stroke="#f48edf" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_80" data-name="Line 80" x2="4.471" y2="4.471" transform="translate(8.921 13.786)" fill="none" stroke="#f48edf" stroke-linecap="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

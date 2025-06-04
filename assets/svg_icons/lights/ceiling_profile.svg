@@ -1,0 +1,12 @@
+<svg id="ceiling_profile" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_3225" data-name="Rectangle 3225" width="24" height="24" fill="none"/>
+  <g id="Group_5242" data-name="Group 5242" transform="translate(-659.219 -333.735)">
+    <g id="cove_light_list" transform="translate(659.17 334)">
+      <g id="Group_1663" data-name="Group 1663" transform="translate(-1171.951 -157.265)">
+        <path id="Path_593" data-name="Path 593" d="M2.07,1,7.626,8h4.748L17.93,1H2.07M0,0H20L12.857,9H7.143Z" transform="translate(1174 165)" fill="#212121"/>
+        <path id="Path_594" data-name="Path 594" d="M6,0H8.843l2.843,9h-.711Z" transform="translate(1172.294 165)" fill="#212121"/>
+        <path id="Path_595" data-name="Path 595" d="M11.686,0H8.843L6,9h.711Z" transform="translate(1178.02 165)" fill="#212121"/>
+      </g>
+    </g>
+  </g>
+</svg>

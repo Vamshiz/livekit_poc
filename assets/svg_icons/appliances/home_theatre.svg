@@ -1,0 +1,11 @@
+<svg id="home_theatre" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_3262" data-name="Rectangle 3262" width="24" height="24" fill="none"/>
+  <g id="Group_5307" data-name="Group 5307" transform="translate(-1023 -847)">
+    <g id="tv_grey" transform="translate(1023 847)">
+      <g id="Group_1296" data-name="Group 1296" transform="translate(-246 -187)">
+        <path id="Rectangle_900" data-name="Rectangle 900" d="M2,1A1,1,0,0,0,1,2v9a1,1,0,0,0,1,1H18a1,1,0,0,0,1-1V2a1,1,0,0,0-1-1H2M2,0H18a2,2,0,0,1,2,2v9a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" transform="translate(248 191)" fill="#212121"/>
+        <path id="Line_122" data-name="Line 122" d="M15,.75H0A.75.75,0,0,1-.75,0,.75.75,0,0,1,0-.75H15a.75.75,0,0,1,.75.75A.75.75,0,0,1,15,.75Z" transform="translate(250.5 206.5)" fill="#212121"/>
+      </g>
+    </g>
+  </g>
+</svg>

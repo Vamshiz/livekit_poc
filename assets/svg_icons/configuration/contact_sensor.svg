@@ -1,0 +1,8 @@
+<svg id="contact_sensor" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_1281" data-name="Rectangle 1281" width="24" height="24" fill="none"/>
+  <g id="Group_1776" data-name="Group 1776" transform="translate(7.371 6.135)">
+    <path id="Path_604" data-name="Path 604" d="M2382.354,4358.093l-1.991,2.41v3.263l2.719,3.083h6.552a34.631,34.631,0,0,0,.726-5.1c-.078-1.218.077-2.461-1.761-3.186-1.657-.492-4.377-1.14-4.377-1.14" transform="translate(-2380.363 -4351.41)" fill="none" stroke="#212121" stroke-width="1"/>
+    <path id="Path_605" data-name="Path 605" d="M2.263,5.447V.131A1.131,1.131,0,0,0,0,.131V9.407" transform="translate(1.989 1)" fill="none" stroke="#212121" stroke-width="1"/>
+  </g>
+  <path id="Path_570" data-name="Path 570" d="M8.965.079A4.786,4.786,0,0,1,10,3.126a5,5,0,1,1-10,0A5.18,5.18,0,0,1,1.1,0" transform="translate(15.662 10.625) rotate(180)" fill="none" stroke="#212121" stroke-width="1"/>
+</svg>

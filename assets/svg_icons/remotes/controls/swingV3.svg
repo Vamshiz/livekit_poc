@@ -1,0 +1,15 @@
+<svg id="_45_degrees" data-name="45_degrees" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_5347" data-name="Group 5347">
+    <g id="Group_2563" data-name="Group 2563" transform="translate(-168 -486)">
+      <g id="Group_2471" data-name="Group 2471">
+        <path id="Path_746" data-name="Path 746" d="M1900.041-114.2a.5.5,0,0,1-.191-.038.5.5,0,0,1-.309-.462v-8a.5.5,0,0,1,.5-.5h8a.5.5,0,0,1,.462.309.5.5,0,0,1-.108.545l-8,8A.5.5,0,0,1,1900.041-114.2Zm.5-8v6.294l6.293-6.294Z" transform="translate(-1729.541 611.201)" fill="#212121"/>
+      </g>
+      <rect id="Rectangle_1518" data-name="Rectangle 1518" width="24" height="24" transform="translate(168 486)" fill="none"/>
+    </g>
+    <g id="Group_5645" data-name="Group 5645" transform="translate(-224.234 -262.636) rotate(45)">
+      <path id="Path_1988" data-name="Path 1988" d="M0,3,9,0V6Z" transform="translate(358.5 24.5)" fill="#212121"/>
+      <path id="Path_776_-_Outline" data-name="Path 776 - Outline" d="M9-.5a.5.5,0,0,1,.292.094A.5.5,0,0,1,9.5,0V6a.5.5,0,0,1-.658.474l-9-3a.5.5,0,0,1,0-.949l9-3A.5.5,0,0,1,9-.5ZM8.5,5.306V.694L1.581,3Z" transform="translate(358.5 24.5)" fill="#212121"/>
+    </g>
+  </g>
+  <rect id="Rectangle_1529" data-name="Rectangle 1529" width="24" height="24" fill="none"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="ac_mode" transform="translate(-20 -880)">
+    <g id="Group_1636" data-name="Group 1636">
+      <g id="Group_1635" data-name="Group 1635" transform="translate(-20 -37)">
+        <rect id="Rectangle_1171" data-name="Rectangle 1171" width="24" height="24" transform="translate(40 917)" fill="none"/>
+      </g>
+    </g>
+    <line id="Line_24" data-name="Line 24" x2="18" transform="translate(23 892)" fill="none" stroke="#999" stroke-linecap="round" stroke-width="1"/>
+    <line id="Line_25" data-name="Line 25" y2="18" transform="translate(32 883)" fill="none" stroke="#999" stroke-linecap="round" stroke-width="1"/>
+    <line id="Line_244" data-name="Line 244" y1="4" x2="4" transform="translate(36 888)" fill="none" stroke="#999" stroke-linecap="round" stroke-width="1"/>
+    <line id="Line_245" data-name="Line 245" x2="4" y2="4" transform="translate(36 892)" fill="none" stroke="#999" stroke-linecap="round" stroke-width="1"/>
+    <line id="Line_246" data-name="Line 246" x1="4" y1="4" transform="translate(24 888)" fill="none" stroke="#999" stroke-linecap="round" stroke-width="1"/>
+    <line id="Line_247" data-name="Line 247" x1="4" y2="4" transform="translate(24 892)" fill="none" stroke="#999" stroke-linecap="round" stroke-width="1"/>
+    <line id="Line_248" data-name="Line 248" y1="4" x2="4" transform="translate(36 896) rotate(90)" fill="none" stroke="#999" stroke-linecap="round" stroke-width="1"/>
+    <line id="Line_249" data-name="Line 249" x2="4" y2="4" transform="translate(32 896) rotate(90)" fill="none" stroke="#999" stroke-linecap="round" stroke-width="1"/>
+    <line id="Line_250" data-name="Line 250" x1="4" y1="4" transform="translate(36 884) rotate(90)" fill="none" stroke="#999" stroke-linecap="round" stroke-width="1"/>
+    <line id="Line_251" data-name="Line 251" x1="4" y2="4" transform="translate(32 884) rotate(90)" fill="none" stroke="#999" stroke-linecap="round" stroke-width="1"/>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+  <g id="Group_1552" data-name="Group 1552" transform="translate(-17.5 -369.5)">
+    <g id="Ellipse_271" data-name="Ellipse 271" transform="translate(22 374)" fill="none" stroke="#fc9191" stroke-width="1">
+      <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+      <circle cx="2.5" cy="2.5" r="2" fill="none"/>
+    </g>
+    <g id="Group_658" data-name="Group 658">
+      <line id="Line_79" data-name="Line 79" y2="2" transform="translate(24.5 370)" fill="none" stroke="#fc9191" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_81" data-name="Line 81" y2="2" transform="translate(24.5 381)" fill="none" stroke="#fc9191" stroke-linecap="round" stroke-width="1"/>
+    </g>
+    <g id="Group_659" data-name="Group 659" transform="translate(401 352) rotate(90)">
+      <line id="Line_79-2" data-name="Line 79" y2="2" transform="translate(24.5 370)" fill="none" stroke="#fc9191" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_81-2" data-name="Line 81" y2="2" transform="translate(24.5 381)" fill="none" stroke="#fc9191" stroke-linecap="round" stroke-width="1"/>
+    </g>
+    <g id="Group_660" data-name="Group 660" transform="translate(273.402 92.95) rotate(45)">
+      <line id="Line_79-3" data-name="Line 79" y2="2" transform="translate(24.5 370)" fill="none" stroke="#fc9191" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_81-3" data-name="Line 81" y2="2" transform="translate(24.5 381.414)" fill="none" stroke="#fc9191" stroke-linecap="round" stroke-width="1"/>
+    </g>
+    <g id="Group_661" data-name="Group 661" transform="translate(308.05 625.402) rotate(135)">
+      <line id="Line_79-4" data-name="Line 79" y2="2" transform="translate(24.5 370)" fill="none" stroke="#fc9191" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_81-4" data-name="Line 81" y2="2" transform="translate(24.5 381.414)" fill="none" stroke="#fc9191" stroke-linecap="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

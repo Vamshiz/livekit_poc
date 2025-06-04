@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360" height="302" viewBox="0 0 360 302">
+  <defs>
+    <filter id="Ellipse_1178" x="28.5" y="107" width="35" height="35" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur"/>
+      <feFlood flood-color="red"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_1179" x="294.5" y="107" width="35" height="35" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-2"/>
+      <feFlood flood-color="red"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_2181" x="213.5" y="178.5" width="115" height="26" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-color="#2bf6fe"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_1181" x="28.5" y="174" width="35" height="35" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-4"/>
+      <feFlood flood-color="red"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_2180" x="196" y="174" width="35" height="35" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-5"/>
+      <feFlood flood-color="red"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_1183" x="28.5" y="241.5" width="35" height="35" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-6"/>
+      <feFlood flood-color="red"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_11285" data-name="Group 11285" transform="translate(0 -56)">
+    <rect id="Rectangle_3552" data-name="Rectangle 3552" width="360" height="55" transform="translate(0 80)" fill="red" opacity="0"/>
+    <rect id="Rectangle_1534" data-name="Rectangle 1534" width="360" height="302" transform="translate(0 56)"/>
+    <g id="Group_11272" data-name="Group 11272" transform="translate(0 52)">
+      <g id="Group_11267" data-name="Group 11267" transform="translate(0 -26)">
+        <line id="Line_929" data-name="Line 929" x2="239" transform="translate(60.5 154.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="8" stroke-dasharray="0 14" opacity="0.4"/>
+        <g id="Group_11266" data-name="Group 11266" transform="translate(0 0.5)">
+          <g transform="matrix(1, 0, 0, 1, 0, 29.5)" filter="url(#Ellipse_1178)">
+            <circle id="Ellipse_1178-2" data-name="Ellipse 1178" cx="4" cy="4" r="4" transform="translate(42 120.5)" fill="#fc171b"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, 0, 29.5)" filter="url(#Ellipse_1179)">
+            <circle id="Ellipse_1179-2" data-name="Ellipse 1179" cx="4" cy="4" r="4" transform="translate(308 120.5)" fill="#fc171b"/>
+          </g>
+        </g>
+      </g>
+      <text id="Entered_correct_no._of_LEDs" data-name="Entered correct no. of LEDs" transform="translate(42 111)" fill="#a8a8a8" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Entered correct no. of LEDs</tspan></text>
+    </g>
+    <g id="Group_11271" data-name="Group 11271" transform="translate(0 46)">
+      <g id="Group_11269" data-name="Group 11269">
+        <g transform="matrix(1, 0, 0, 1, 0, 10)" filter="url(#Path_2181)">
+          <path id="Path_2181-2" data-name="Path 2181" d="M13,0h89" transform="translate(213.5 191.5)" fill="none" stroke="#08f6ff" stroke-linecap="round" stroke-width="8" stroke-dasharray="0 14"/>
+        </g>
+        <path id="Path_2179" data-name="Path 2179" d="M15,0H159" transform="translate(45.5 201.5)" fill="none" stroke="#5d5d5d" stroke-linecap="round" stroke-width="8" stroke-dasharray="0 14"/>
+        <g id="Group_11268" data-name="Group 11268" transform="translate(0 0.5)">
+          <g transform="matrix(1, 0, 0, 1, 0, 9.5)" filter="url(#Ellipse_1181)">
+            <circle id="Ellipse_1181-2" data-name="Ellipse 1181" cx="4" cy="4" r="4" transform="translate(42 187.5)" fill="#fc171b"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, 0, 9.5)" filter="url(#Path_2180)">
+            <path id="Path_2180-2" data-name="Path 2180" d="M4,0A4,4,0,1,1,0,4,4,4,0,0,1,4,0Z" transform="translate(209.5 187.5)" fill="#fc171b"/>
+          </g>
+        </g>
+      </g>
+      <text id="Entered_less_no._of_leds" data-name="Entered less no. of leds" transform="translate(42 184)" fill="#a8a8a8" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Entered less no. of leds</tspan></text>
+    </g>
+    <g id="Group_11273" data-name="Group 11273" transform="translate(0 54)">
+      <g id="Group_11270" data-name="Group 11270" transform="translate(0 0.5)">
+        <line id="Line_932" data-name="Line 932" x2="270" transform="translate(58.5 260.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="8" stroke-dasharray="0 14" opacity="0.4"/>
+        <g transform="matrix(1, 0, 0, 1, 0, 1.5)" filter="url(#Ellipse_1183)">
+          <circle id="Ellipse_1183-2" data-name="Ellipse 1183" cx="4" cy="4" r="4" transform="translate(42 255)" fill="#fc171b"/>
+        </g>
+      </g>
+      <text id="Entered_more_no._of_LEDs" data-name="Entered more no. of LEDs" transform="translate(42 243)" fill="#a8a8a8" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Entered more no. of LEDs</tspan></text>
+    </g>
+    <text id="Strip_preview" data-name="Strip preview" transform="translate(42 114)" fill="#fff" font-size="17" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Strip preview</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg id="amplifier_grey" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_987" data-name="Rectangle 987" width="24" height="24" fill="none"/>
+  <g id="Group_1301" data-name="Group 1301" transform="translate(-48 -546)">
+    <g id="Rectangle_738" data-name="Rectangle 738" transform="translate(53 548)" fill="none" stroke="#212121" stroke-width="1">
+      <rect width="14" height="20" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="13" height="19" rx="3.5" fill="none"/>
+    </g>
+    <circle id="Ellipse_338" data-name="Ellipse 338" cx="2" cy="2" r="2" transform="translate(58 560)" fill="#212121"/>
+    <circle id="Ellipse_339" data-name="Ellipse 339" cx="3" cy="3" r="3" transform="translate(57 551)" fill="#212121"/>
+  </g>
+</svg>

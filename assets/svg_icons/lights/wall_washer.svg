@@ -1,0 +1,22 @@
+<svg id="wallwasher" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect id="Rectangle_3216" data-name="Rectangle 3216" width="24" height="24" fill="none"/>
+  <g id="wallwasher_list" transform="translate(0 0)">
+    <path id="Path_232" data-name="Path 232" d="M5.686-2.3h6.769L18-7.3H0Z" transform="translate(3 9.298)" fill="url(#linear-gradient)"/>
+    <path id="Rectangle_394" data-name="Rectangle 394" d="M2,1A1,1,0,0,0,1,2V8A1,1,0,0,0,2,9H8A1,1,0,0,0,9,8V2A1,1,0,0,0,8,1H2M2,0H8a2,2,0,0,1,2,2V8a2,2,0,0,1-2,2H2A2,2,0,0,1,0,8V2A2,2,0,0,1,2,0Z" transform="translate(7 7)" fill="#212121"/>
+    <circle id="Ellipse_172" data-name="Ellipse 172" cx="1" cy="1" r="1" transform="translate(9 9)" fill="#212121"/>
+    <circle id="Ellipse_173" data-name="Ellipse 173" cx="1" cy="1" r="1" transform="translate(13 9)" fill="#212121"/>
+    <circle id="Ellipse_174" data-name="Ellipse 174" cx="1" cy="1" r="1" transform="translate(9 13)" fill="#212121"/>
+    <circle id="Ellipse_175" data-name="Ellipse 175" cx="1" cy="1" r="1" transform="translate(13 13)" fill="#212121"/>
+    <path id="Path_699" data-name="Path 699" d="M5.686-7.3h6.769L18-2.3H0Z" transform="translate(3 24.298)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="bathroom" transform="translate(-69 -842)">
+    <rect id="Rectangle_1024" data-name="Rectangle 1024" width="24" height="24" transform="translate(69 842)" fill="#999" opacity="0"/>
+    <g id="Group_1572" data-name="Group 1572">
+      <line id="Line_185" data-name="Line 185" y2="2" transform="translate(84.5 861.5)" fill="none" stroke="#999" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_186" data-name="Line 186" y2="2" transform="translate(77.5 861.5)" fill="none" stroke="#999" stroke-linecap="round" stroke-width="1"/>
+      <path id="Path_537" data-name="Path 537" d="M7,2.5v7a3.5,3.5,0,0,1-7,0" transform="translate(78.5 857.5) rotate(180)" fill="none" stroke="#999" stroke-linecap="round" stroke-width="1"/>
+      <path id="Path_538" data-name="Path 538" d="M2113.929,4557.463a3.542,3.542,0,0,0,7,0Z" transform="translate(2195.929 5406.463) rotate(180)" fill="#999"/>
+      <g id="Rectangle_126" data-name="Rectangle 126" transform="translate(71 854)" fill="none" stroke="#999" stroke-width="1">
+        <path d="M.381,0H19.619A.381.381,0,0,1,20,.381v0A7.619,7.619,0,0,1,12.381,8H7.619A7.619,7.619,0,0,1,0,.381v0A.381.381,0,0,1,.381,0Z" stroke="none"/>
+        <path d="M.756.5H19.244A.256.256,0,0,1,19.5.756v0A6.744,6.744,0,0,1,12.756,7.5H7.244A6.744,6.744,0,0,1,.5.756v0A.256.256,0,0,1,.756.5Z" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

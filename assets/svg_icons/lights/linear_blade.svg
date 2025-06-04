@@ -1,0 +1,14 @@
+<svg id="linear_blade" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_3223" data-name="Rectangle 3223" width="24" height="24" fill="none"/>
+  <g id="Group_5240" data-name="Group 5240" transform="translate(-545 -333)">
+    <g id="Group_4615" data-name="Group 4615" transform="translate(15.244)">
+      <path id="Rectangle_3168" data-name="Rectangle 3168" d="M1,1V7H19V1H1M0,0H20V8H0Z" transform="translate(531.818 342)"/>
+      <path id="Rectangle_3169" data-name="Rectangle 3169" d="M.5.5v3h3V.5H.5M0,0H4V4H0Z" transform="translate(533.818 344)"/>
+      <path id="Rectangle_3170" data-name="Rectangle 3170" d="M.5.5v3h3V.5H.5M0,0H4V4H0Z" transform="translate(539.818 344)"/>
+      <path id="Rectangle_3171" data-name="Rectangle 3171" d="M.5.5v3h3V.5H.5M0,0H4V4H0Z" transform="translate(545.818 344)"/>
+      <circle id="Ellipse_1033" data-name="Ellipse 1033" cx="1" cy="1" r="1" transform="translate(534.818 345)"/>
+      <circle id="Ellipse_1034" data-name="Ellipse 1034" cx="1" cy="1" r="1" transform="translate(540.818 345)"/>
+      <circle id="Ellipse_1035" data-name="Ellipse 1035" cx="1" cy="1" r="1" transform="translate(546.818 345)"/>
+    </g>
+  </g>
+</svg>

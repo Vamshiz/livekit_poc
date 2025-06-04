@@ -1,0 +1,13 @@
+<svg id="refridgerator" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_3257" data-name="Rectangle 3257" width="24" height="24" fill="none"/>
+  <g id="Group_5302" data-name="Group 5302" transform="translate(-677 -849)">
+    <g id="Group_4622" data-name="Group 4622">
+      <path id="Rectangle_3196" data-name="Rectangle 3196" d="M1,1V21H15V1H1M1,0H15a1,1,0,0,1,1,1V21a1,1,0,0,1-1,1H1a1,1,0,0,1-1-1V1A1,1,0,0,1,1,0Z" transform="translate(681 849)"/>
+      <path id="Line_763" data-name="Line 763" d="M15,.5H0A.5.5,0,0,1-.5,0,.5.5,0,0,1,0-.5H15a.5.5,0,0,1,.5.5A.5.5,0,0,1,15,.5Z" transform="translate(681.5 856.5)"/>
+      <path id="Line_764" data-name="Line 764" d="M0,2.5A.5.5,0,0,1-.5,2V0A.5.5,0,0,1,0-.5.5.5,0,0,1,.5,0V2A.5.5,0,0,1,0,2.5Z" transform="translate(683.5 852.5)"/>
+      <path id="Line_765" data-name="Line 765" d="M0,3.5A.5.5,0,0,1-.5,3V0A.5.5,0,0,1,0-.5.5.5,0,0,1,.5,0V3A.5.5,0,0,1,0,3.5Z" transform="translate(683.5 860.5)"/>
+      <path id="Line_766" data-name="Line 766" d="M0,2.5A.5.5,0,0,1-.5,2V0A.5.5,0,0,1,0-.5.5.5,0,0,1,.5,0V2A.5.5,0,0,1,0,2.5Z" transform="translate(683.5 870.5)"/>
+      <path id="Line_767" data-name="Line 767" d="M0,2.5A.5.5,0,0,1-.5,2V0A.5.5,0,0,1,0-.5.5.5,0,0,1,.5,0V2A.5.5,0,0,1,0,2.5Z" transform="translate(694.5 870.5)"/>
+    </g>
+  </g>
+</svg>

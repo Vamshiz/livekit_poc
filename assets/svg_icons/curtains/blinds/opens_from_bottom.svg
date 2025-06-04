@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62.441" height="34" viewBox="0 0 62.441 34">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0"/>
+      <stop offset="1"/>
+    </linearGradient>
+  </defs>
+  <g id="opens_from_bottom" transform="translate(-146 -253)">
+    <path id="Union_95" data-name="Union 95" d="M2.855,32.936V5.392H1A1,1,0,0,1,.237,3.749L3.089.356a1,1,0,0,1,1.531,0L7.473,3.749a1,1,0,0,1-.766,1.643H4.855V32.936a1,1,0,1,1-2,0Z" transform="translate(200.731 253.001)" fill="url(#linear-gradient)"/>
+    <g id="Group_10923" data-name="Group 10923" transform="translate(146 253)">
+      <path id="Rectangle_3495" data-name="Rectangle 3495" d="M1,1V32H39V1H1M0,0H40V33H0Z" transform="translate(6)"/>
+      <path id="Line_854" data-name="Line 854" d="M48,1H0V-1H48Z" transform="translate(2 32)"/>
+      <circle id="Ellipse_1120" data-name="Ellipse 1120" cx="2" cy="2" r="2" transform="translate(0 30)"/>
+      <circle id="Ellipse_1121" data-name="Ellipse 1121" cx="2" cy="2" r="2" transform="translate(48 30)"/>
+      <path id="Line_855" data-name="Line 855" d="M39,.5H0v-1H39Z" transform="translate(6 28)"/>
+      <path id="Line_858" data-name="Line 858" d="M39,.5H0v-1H39Z" transform="translate(6 20)"/>
+      <path id="Line_860" data-name="Line 860" d="M39,.5H0v-1H39Z" transform="translate(6 12)"/>
+      <path id="Line_856" data-name="Line 856" d="M39,.5H0v-1H39Z" transform="translate(6 24)"/>
+      <path id="Line_857" data-name="Line 857" d="M39,.5H0v-1H39Z" transform="translate(6 16)"/>
+      <path id="Line_859" data-name="Line 859" d="M39,.5H0v-1H39Z" transform="translate(6 8)"/>
+      <path id="Line_861" data-name="Line 861" d="M39,.5H0v-1H39Z" transform="translate(6 4)"/>
+    </g>
+  </g>
+</svg>

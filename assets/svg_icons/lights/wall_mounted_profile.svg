@@ -1,0 +1,10 @@
+<svg id="wall_mounted" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_3227" data-name="Rectangle 3227" width="24" height="24" fill="none"/>
+  <g id="Group_5244" data-name="Group 5244" transform="translate(-771.744 -333.562)">
+    <g id="Group_4618" data-name="Group 4618" transform="translate(-29.756)">
+      <path id="Path_1867" data-name="Path 1867" d="M2978.938,3159.563a.5.5,0,0,1,.5.5v2.656a.5.5,0,0,1-.29.454l-15.844,7.344a.5.5,0,0,1-.21.046H2961a.5.5,0,0,1-.5-.5V3165a.5.5,0,0,1,.5-.5h1.862l15.928-4.915A.5.5,0,0,1,2978.938,3159.563Zm-.5,2.837v-1.659l-15.353,4.738a.5.5,0,0,1-.147.022H2961.5v4.063h1.483Z" transform="translate(-2156 -2820)"/>
+      <path id="Line_740" data-name="Line 740" d="M0,4.938a.5.5,0,0,1-.5-.5V0A.5.5,0,0,1,0-.5.5.5,0,0,1,.5,0V4.438A.5.5,0,0,1,0,4.938Z" transform="translate(807.5 345.063)"/>
+      <path id="Path_1868" data-name="Path 1868" d="M2961,3165.313a.5.5,0,0,1-.128-.984l17.906-4.75a.5.5,0,1,1,.256.967l-17.906,4.75A.508.508,0,0,1,2961,3165.313Z" transform="translate(-2156 -2820)"/>
+    </g>
+  </g>
+</svg>

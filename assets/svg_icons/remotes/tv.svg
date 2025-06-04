@@ -1,0 +1,11 @@
+<svg id="tv_grey" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_982" data-name="Rectangle 982" width="24" height="24" fill="none"/>
+  <g id="Group_1296" data-name="Group 1296" transform="translate(-246 -187)">
+    <g id="Rectangle_900" data-name="Rectangle 900" transform="translate(248 191)" fill="none" stroke="#212121" stroke-width="1">
+      <rect width="20" height="13" rx="2" stroke="none"/>
+      <rect x="0.5" y="0.5" width="19" height="12" rx="1.5" fill="none"/>
+    </g>
+    <line id="Line_121" data-name="Line 121" y2="2" transform="translate(258 204)" fill="none" stroke="#212121" stroke-linecap="square" stroke-width="1"/>
+    <line id="Line_122" data-name="Line 122" x1="6" transform="translate(255 206.5)" fill="none" stroke="#212121" stroke-linecap="round" stroke-width="1"/>
+  </g>
+</svg>

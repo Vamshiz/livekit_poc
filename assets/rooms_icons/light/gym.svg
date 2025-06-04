@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="gym" transform="translate(-2142 -1300)">
+    <rect id="Rectangle_1026" data-name="Rectangle 1026" width="24" height="24" transform="translate(2142 1300)" fill="#999" opacity="0"/>
+    <g id="Group_1338" data-name="Group 1338" transform="translate(0 1)">
+      <rect id="Rectangle_94" data-name="Rectangle 94" width="2" height="8" transform="translate(2158 1310) rotate(90)" fill="#999"/>
+      <g id="Rectangle_93" data-name="Rectangle 93" transform="translate(2157 1306)" fill="none" stroke="#999" stroke-width="1">
+        <rect width="4" height="10" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="3" height="9" rx="1.5" fill="none"/>
+      </g>
+      <g id="Rectangle_95" data-name="Rectangle 95" transform="translate(2162 1308)" fill="none" stroke="#999" stroke-width="1">
+        <path d="M0,0H0A2,2,0,0,1,2,2V4A2,2,0,0,1,0,6H0A0,0,0,0,1,0,6V0A0,0,0,0,1,0,0Z" stroke="none"/>
+        <path d="M.625.5h0a.875.875,0,0,1,.875.875v3.25A.875.875,0,0,1,.625,5.5h0A.125.125,0,0,1,.5,5.375V.625A.125.125,0,0,1,.625.5Z" fill="none"/>
+      </g>
+      <g id="Rectangle_96" data-name="Rectangle 96" transform="translate(2147 1306)" fill="none" stroke="#999" stroke-width="1">
+        <rect width="4" height="10" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="3" height="9" rx="1.5" fill="none"/>
+      </g>
+      <g id="Rectangle_97" data-name="Rectangle 97" transform="translate(2144 1308)" fill="none" stroke="#999" stroke-width="1">
+        <path d="M2,0H2A0,0,0,0,1,2,0V6A0,0,0,0,1,2,6H2A2,2,0,0,1,0,4V2A2,2,0,0,1,2,0Z" stroke="none"/>
+        <path d="M1.375.5h0A.125.125,0,0,1,1.5.625v4.75a.125.125,0,0,1-.125.125h0A.875.875,0,0,1,.5,4.625V1.375A.875.875,0,0,1,1.375.5Z" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg id="hvac_duct" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_3501" data-name="Rectangle 3501" width="24" height="24" fill="none"/>
+  <path id="Rectangle_3498" data-name="Rectangle 3498" d="M1,1V9H19V1H1M0,0H20V10H0Z" transform="translate(2 7)"/>
+  <path id="Line_900" data-name="Line 900" d="M19,.5H0v-1H19Z" transform="translate(2.75 10)"/>
+  <path id="Line_901" data-name="Line 901" d="M19,.5H0v-1H19Z" transform="translate(2.75 12)"/>
+  <path id="Line_902" data-name="Line 902" d="M19,.5H0v-1H19Z" transform="translate(2.75 14)"/>
+</svg>

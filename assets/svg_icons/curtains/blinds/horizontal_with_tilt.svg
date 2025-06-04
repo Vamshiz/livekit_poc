@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="86.259" height="42.587" viewBox="0 0 86.259 42.587">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="1" y2="0" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="horizontal_with_tilt" transform="translate(-258 -565.412)">
+    <g id="Group_10925" data-name="Group 10925" transform="translate(-12 312.412)">
+      <path id="Rectangle_3496" data-name="Rectangle 3496" d="M1,1V15H31V1H1M0,0H32V16H0Z" transform="translate(276 286) rotate(-90)"/>
+      <path id="Rectangle_3497" data-name="Rectangle 3497" d="M1,1V15H31V1H1M0,0H32V16H0Z" transform="translate(300 286) rotate(-90)"/>
+      <g id="Group_10921" data-name="Group 10921" transform="translate(119.293 117.207)">
+        <path id="Union_93" data-name="Union 93" d="M2.88,28.294.294,25.708A1,1,0,0,1,1,24H6.173a1,1,0,0,1,.707,1.707L4.294,28.294a1,1,0,0,1-1.414,0ZM2.587,24V1a1,1,0,0,1,2,0V24Z" transform="translate(179.294 171.206) rotate(90)" fill="url(#linear-gradient)"/>
+        <path id="Union_94" data-name="Union 94" d="M2.588,27.586v-23H1A1,1,0,0,1,.3,2.879L2.881.293a1,1,0,0,1,1.414,0L6.881,2.879a1,1,0,0,1-.707,1.707H4.587v23a1,1,0,0,1-2,0Z" transform="translate(202.707 171.205) rotate(90)" fill="url(#linear-gradient-2)"/>
+      </g>
+      <path id="Line_862" data-name="Line 862" d="M48,1H0V-1H48Z" transform="translate(272 255)"/>
+      <circle id="Ellipse_1122" data-name="Ellipse 1122" cx="2" cy="2" r="2" transform="translate(270 253)"/>
+      <circle id="Ellipse_1123" data-name="Ellipse 1123" cx="2" cy="2" r="2" transform="translate(318 253)"/>
+      <path id="Line_863" data-name="Line 863" d="M32,.5H0v-1H32Z" transform="translate(280 286) rotate(-90)"/>
+      <path id="Line_871" data-name="Line 871" d="M32,.5H0v-1H32Z" transform="translate(304 286) rotate(-90)"/>
+      <path id="Line_865" data-name="Line 865" d="M32,.5H0v-1H32Z" transform="translate(284 286) rotate(-90)"/>
+      <path id="Line_869" data-name="Line 869" d="M32,.5H0v-1H32Z" transform="translate(308 286) rotate(-90)"/>
+      <path id="Line_868" data-name="Line 868" d="M32,.5H0v-1H32Z" transform="translate(288 286) rotate(-90)"/>
+      <path id="Line_870" data-name="Line 870" d="M32,.5H0v-1H32Z" transform="translate(312 286) rotate(-90)"/>
+    </g>
+    <g id="Group_10931" data-name="Group 10931" transform="translate(210 316.351)">
+      <path id="Line_885" data-name="Line 885" d="M16,1H0V-1H16Z" transform="matrix(0.966, 0.259, -0.259, 0.966, 118.545, 284)"/>
+      <path id="Line_886" data-name="Line 886" d="M16,1H0V-1H16Z" transform="matrix(0.966, 0.259, -0.259, 0.966, 118.545, 279)"/>
+      <path id="Line_887" data-name="Line 887" d="M16,1H0V-1H16Z" transform="matrix(0.966, 0.259, -0.259, 0.966, 118.545, 274)"/>
+      <path id="Line_888" data-name="Line 888" d="M16,1H0V-1H16Z" transform="matrix(0.966, 0.259, -0.259, 0.966, 118.545, 269)"/>
+      <path id="Line_889" data-name="Line 889" d="M16,1H0V-1H16Z" transform="matrix(0.966, 0.259, -0.259, 0.966, 118.545, 264)"/>
+      <path id="Line_890" data-name="Line 890" d="M16,1H0V-1H16Z" transform="matrix(0.966, 0.259, -0.259, 0.966, 118.545, 259)"/>
+      <path id="Line_891" data-name="Line 891" d="M16,1H0V-1H16Z" transform="matrix(0.966, 0.259, -0.259, 0.966, 118.545, 254)"/>
+      <path id="Line_892" data-name="Line 892" d="M.5,30.43h-1V0h1Z" transform="translate(126.272 256.07)"/>
+    </g>
+  </g>
+</svg>

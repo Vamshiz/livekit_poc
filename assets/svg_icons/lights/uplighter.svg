@@ -1,0 +1,14 @@
+<svg id="uplighter" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0"/>
+      <stop offset="1"/>
+    </linearGradient>
+  </defs>
+  <rect id="Rectangle_3237" data-name="Rectangle 3237" width="24" height="24" fill="none"/>
+  <g id="Group_5253" data-name="Group 5253" transform="translate(-340.969 -450)">
+    <path id="Subtraction_120" data-name="Subtraction 120" d="M-2146-2802a9.013,9.013,0,0,0,8.945-8h-17.889a9.013,9.013,0,0,0,8.944,8m0,1a10.011,10.011,0,0,1-10-10h20A10.011,10.011,0,0,1-2146-2801Z" transform="translate(2499 3271)"/>
+    <path id="Path_1864" data-name="Path 1864" d="M1.938-1.61l14.188-.312L18.313-7.3H-1.031Z" transform="translate(344 462.298)" fill="url(#linear-gradient)"/>
+    <path id="Path_1865" data-name="Path 1865" d="M2511.875,3267.359a.5.5,0,0,1-.228-.945,12.161,12.161,0,0,0,4.172-3.952.5.5,0,1,1,.893.451,12.982,12.982,0,0,1-4.609,4.392A.5.5,0,0,1,2511.875,3267.359Z" transform="translate(-2156 -2800)"/>
+  </g>
+</svg>

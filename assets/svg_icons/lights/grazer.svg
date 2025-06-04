@@ -1,0 +1,13 @@
+<svg id="grazer" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_3239" data-name="Rectangle 3239" width="24" height="24" fill="none"/>
+  <g id="Group_5255" data-name="Group 5255" transform="translate(-449 -448)">
+    <g id="Group_4616" data-name="Group 4616" transform="translate(-79.725 114)">
+      <path id="Rectangle_3168" data-name="Rectangle 3168" d="M1,1V7H21V1H1M0,0H22V8H0Z" transform="translate(529.724 342)"/>
+      <circle id="Ellipse_1033" data-name="Ellipse 1033" cx="1" cy="1" r="1" transform="translate(535.724 345)"/>
+      <circle id="Ellipse_1046" data-name="Ellipse 1046" cx="1" cy="1" r="1" transform="translate(531.724 345)"/>
+      <circle id="Ellipse_1034" data-name="Ellipse 1034" cx="1" cy="1" r="1" transform="translate(539.724 345)"/>
+      <circle id="Ellipse_1035" data-name="Ellipse 1035" cx="1" cy="1" r="1" transform="translate(543.724 345)"/>
+      <circle id="Ellipse_1047" data-name="Ellipse 1047" cx="1" cy="1" r="1" transform="translate(547.724 345)"/>
+    </g>
+  </g>
+</svg>

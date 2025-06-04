@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="tilt_90" transform="translate(0 24) rotate(-90)">
+    <rect id="Rectangle_3504" data-name="Rectangle 3504" width="24" height="24" fill="none"/>
+    <path id="Path_1967" data-name="Path 1967" d="M.9,2H17.1c.5,0,.9-.149.9-.333L17.1.333C17.1.149,16.7,0,16.2,0H1.8C1.3,0,.9.149.9.333L0,1.667C0,1.851.4,2,.9,2Z" transform="translate(3 3)" fill="#333"/>
+    <path id="Path_1989" data-name="Path 1989" d="M.9,2H17.1c.5,0,.9-.149.9-.333L17.1.333C17.1.149,16.7,0,16.2,0H1.8C1.3,0,.9.149.9.333L0,1.667C0,1.851.4,2,.9,2Z" transform="translate(3 8)" fill="#333"/>
+    <path id="Path_1990" data-name="Path 1990" d="M.9,2H17.1c.5,0,.9-.149.9-.333L17.1.333C17.1.149,16.7,0,16.2,0H1.8C1.3,0,.9.149.9.333L0,1.667C0,1.851.4,2,.9,2Z" transform="translate(3 13)" fill="#333"/>
+    <path id="Path_1991" data-name="Path 1991" d="M.9,2H17.1c.5,0,.9-.149.9-.333L17.1.333C17.1.149,16.7,0,16.2,0H1.8C1.3,0,.9.149.9.333L0,1.667C0,1.851.4,2,.9,2Z" transform="translate(3 18)" fill="#333"/>
+  </g>
+</svg>

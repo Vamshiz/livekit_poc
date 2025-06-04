@@ -1,0 +1,30 @@
+<svg id="sprinkler" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_3260" data-name="Rectangle 3260" width="24" height="24" fill="none"/>
+  <g id="Group_5305" data-name="Group 5305" transform="translate(-892 -849)">
+    <g id="sprinkler-2" data-name="sprinkler" transform="translate(892 852)">
+      <g id="Group_2630" data-name="Group 2630" transform="translate(12.5)">
+        <circle id="Ellipse_862" data-name="Ellipse 862" cx="0.5" cy="0.5" r="0.5" transform="translate(2 10)"/>
+        <circle id="Ellipse_866" data-name="Ellipse 866" cx="0.5" cy="0.5" r="0.5" transform="translate(0 9)"/>
+        <circle id="Ellipse_863" data-name="Ellipse 863" cx="0.75" cy="0.75" r="0.75" transform="translate(4 9)"/>
+        <circle id="Ellipse_867" data-name="Ellipse 867" cx="0.75" cy="0.75" r="0.75" transform="translate(0.5 6)"/>
+        <circle id="Ellipse_864" data-name="Ellipse 864" cx="1" cy="1" r="1" transform="translate(6 8)"/>
+        <circle id="Ellipse_868" data-name="Ellipse 868" cx="1" cy="1" r="1" transform="translate(2 3)"/>
+        <circle id="Ellipse_865" data-name="Ellipse 865" cx="1.25" cy="1.25" r="1.25" transform="translate(9 8)"/>
+        <circle id="Ellipse_869" data-name="Ellipse 869" cx="1.25" cy="1.25" r="1.25" transform="translate(5)"/>
+      </g>
+      <g id="Group_2631" data-name="Group 2631" transform="translate(0)">
+        <circle id="Ellipse_862-2" data-name="Ellipse 862" cx="0.5" cy="0.5" r="0.5" transform="translate(8.5 10)"/>
+        <circle id="Ellipse_866-2" data-name="Ellipse 866" cx="0.5" cy="0.5" r="0.5" transform="translate(10.5 9)"/>
+        <circle id="Ellipse_863-2" data-name="Ellipse 863" cx="0.75" cy="0.75" r="0.75" transform="translate(6 9)"/>
+        <circle id="Ellipse_867-2" data-name="Ellipse 867" cx="0.75" cy="0.75" r="0.75" transform="translate(9.5 6)"/>
+        <circle id="Ellipse_864-2" data-name="Ellipse 864" cx="1" cy="1" r="1" transform="translate(3.5 8)"/>
+        <circle id="Ellipse_868-2" data-name="Ellipse 868" cx="1" cy="1" r="1" transform="translate(7.5 3)"/>
+        <circle id="Ellipse_865-2" data-name="Ellipse 865" cx="1.25" cy="1.25" r="1.25" transform="translate(0 8)"/>
+        <circle id="Ellipse_869-2" data-name="Ellipse 869" cx="1.25" cy="1.25" r="1.25" transform="translate(4)"/>
+      </g>
+      <path id="Path_824" data-name="Path 824" d="M0,0A11.353,11.353,0,0,1,4.125-1,9.4,9.4,0,0,1,8,0V3H0Z" transform="translate(7.784 12)" fill="#212121"/>
+      <path id="Line_487" data-name="Line 487" d="M10.5.5H0v-1H10.5Z" transform="translate(6.5 17.5)" fill="#212121"/>
+      <path id="Line_488" data-name="Line 488" d="M1,3H-1V0H1Z" transform="translate(11.776 14.5)" fill="#212121"/>
+    </g>
+  </g>
+</svg>

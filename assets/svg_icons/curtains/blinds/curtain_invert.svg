@@ -1,0 +1,8 @@
+<svg id="curtain_invert" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_5385" data-name="Group 5385">
+    <path id="Subtraction_115" data-name="Subtraction 115" d="M6,20H0V10.75H5V14l5-4h0L5,6V9.249H0V0H6a4,4,0,0,1,4,4V16A4,4,0,0,1,6,20Z" transform="translate(12 2)" fill="#212121"/>
+    <path id="Union_76" data-name="Union 76" d="M0,4,5,0V8Zm5,.75V3.25h5v1.5Z" transform="translate(2 8)" fill="#212121"/>
+    <path id="Path_861" data-name="Path 861" d="M15.2,10.5H3.8A4.408,4.408,0,0,1-.5,6V0h1V6A3.408,3.408,0,0,0,3.8,9.5H15.2A3.408,3.408,0,0,0,18.5,6V0h1V6A4.408,4.408,0,0,1,15.2,10.5Z" transform="translate(13.009 2.5) rotate(90)" fill="#212121"/>
+  </g>
+  <rect id="Rectangle_1894" data-name="Rectangle 1894" width="24" height="24" fill="none"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg id="furniture_profile" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_3241" data-name="Rectangle 3241" width="24" height="24" fill="none"/>
+  <g id="Group_5257" data-name="Group 5257" transform="translate(-556.5 -448)">
+    <g id="Group_4617" data-name="Group 4617" transform="translate(-187 113)">
+      <path id="Rectangle_3180" data-name="Rectangle 3180" d="M1,1V7H7V1H1M0,0H8V8H0Z" transform="translate(748 341)"/>
+      <path id="Rectangle_3181" data-name="Rectangle 3181" d="M1,1V7H7V1H1M0,0H8V8H0Z" transform="translate(756 341)"/>
+      <path id="Path_1866" data-name="Path 1866" d="M2921.938,3174.063H2902a.5.5,0,0,1-.5-.5V3166a.5.5,0,0,1,.5-.5h2.5a.5.5,0,0,1,0,1h-2v6.563h18.938V3166.5H2919.5a.5.5,0,0,1,0-1h2.438a.5.5,0,0,1,.5.5v7.563A.5.5,0,0,1,2921.938,3174.063Z" transform="translate(-2156 -2821.688)"/>
+    </g>
+  </g>
+</svg>

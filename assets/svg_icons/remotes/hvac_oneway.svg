@@ -1,0 +1,12 @@
+<svg id="hvac_oneway" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_3500" data-name="Rectangle 3500" width="24" height="24" fill="none"/>
+  <path id="Rectangle_3497_-_Outline" data-name="Rectangle 3497 - Outline" d="M.5.5v7h11V.5H.5M0,0H12V8H0Z" transform="translate(6 5)"/>
+  <path id="Rectangle_3496" data-name="Rectangle 3496" d="M2,.5A1.5,1.5,0,0,0,.5,2V18A1.5,1.5,0,0,0,2,19.5H18A1.5,1.5,0,0,0,19.5,18V2A1.5,1.5,0,0,0,18,.5H2M2,0H18a2,2,0,0,1,2,2V18a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" transform="translate(2 2)"/>
+  <path id="Line_898" data-name="Line 898" d="M12,.25H0v-.5H12Z" transform="translate(6 7)"/>
+  <path id="Line_892" data-name="Line 892" d="M12,.25H0v-.5H12Z" transform="translate(6 9)"/>
+  <path id="Line_893" data-name="Line 893" d="M12,.25H0v-.5H12Z" transform="translate(6 11)"/>
+  <path id="Line_894" data-name="Line 894" d="M12.5.5H0v-1H12.5Z" transform="translate(18.25 17) rotate(180)"/>
+  <path id="Line_895" data-name="Line 895" d="M8,.25H0v-.5H8Z" transform="translate(12 5) rotate(90)"/>
+  <path id="Line_896" data-name="Line 896" d="M8,.25H0v-.5H8Z" transform="translate(15 5) rotate(90)"/>
+  <path id="Line_899" data-name="Line 899" d="M8,.25H0v-.5H8Z" transform="translate(9 5) rotate(90)"/>
+</svg>

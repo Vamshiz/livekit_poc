@@ -1,0 +1,14 @@
+<svg id="drapes" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_3246" data-name="Rectangle 3246" width="24" height="24" fill="none"/>
+  <g id="Group_5286" data-name="Group 5286" transform="translate(-409 -652)">
+    <g id="curtain_close" transform="translate(409 652)">
+      <g id="Group_2644" data-name="Group 2644" transform="translate(-108 -360)">
+        <path id="Path_856" data-name="Path 856" d="M1,1V18.3a4.347,4.347,0,0,0,2.125.7A2.113,2.113,0,0,0,4.4,18.543a3.735,3.735,0,0,1,2.151-.719,3.481,3.481,0,0,1,2.155.77,1.545,1.545,0,0,0,1,.407,1.176,1.176,0,0,0,.85-.361,3.289,3.289,0,0,1,2.223-.816A5.85,5.85,0,0,1,15,18.312V1H1M0,0H16V20a6.39,6.39,0,0,0-3.213-1.176c-1.613,0-1.6,1.176-3.074,1.176s-1.679-1.176-3.159-1.176S4.767,20,3.125,20A5.79,5.79,0,0,1,0,18.824Z" transform="translate(112 362)"/>
+        <path id="Line_504" data-name="Line 504" d="M.5,17.5h-1V0h1Z" transform="translate(124.5 363)"/>
+        <path id="Line_505" data-name="Line 505" d="M.5,18.146h-1V0h1Z" transform="translate(121.5 363)"/>
+        <path id="Line_506" data-name="Line 506" d="M.5,18.146h-1V0h1Z" transform="translate(115.5 363)"/>
+        <path id="Line_507" data-name="Line 507" d="M.5,17.5h-1V0h1Z" transform="translate(118.5 363)"/>
+      </g>
+    </g>
+  </g>
+</svg>

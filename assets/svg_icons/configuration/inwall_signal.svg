@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="inwall_signal" transform="translate(-65 -997)">
+    <rect id="Rectangle_1231" data-name="Rectangle 1231" width="24" height="24" transform="translate(65 997)" fill="none"/>
+    <g id="Group_1644" data-name="Group 1644" transform="translate(-1 1)">
+      <path id="Rectangle_1226" data-name="Rectangle 1226" d="M1,0H1A1,1,0,0,1,2,1V4A0,0,0,0,1,2,4H0A0,0,0,0,1,0,4V1A1,1,0,0,1,1,0Z" transform="translate(71 1011)" fill="#999"/>
+      <path id="Rectangle_1227" data-name="Rectangle 1227" d="M1,0H1A1,1,0,0,1,2,1V7A0,0,0,0,1,2,7H0A0,0,0,0,1,0,7V1A1,1,0,0,1,1,0Z" transform="translate(75 1008)" fill="#999"/>
+      <path id="Rectangle_1228" data-name="Rectangle 1228" d="M1,0H1A1,1,0,0,1,2,1v9a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V1A1,1,0,0,1,1,0Z" transform="translate(79 1005)" fill="#999"/>
+      <path id="Rectangle_1229" data-name="Rectangle 1229" d="M1,0H1A1,1,0,0,1,2,1V13a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V1A1,1,0,0,1,1,0Z" transform="translate(83 1002)" fill="#999" opacity="0.4"/>
+    </g>
+  </g>
+</svg>

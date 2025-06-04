@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="dimmer_low" transform="translate(-779 -842)">
+    <rect id="Rectangle_1184" data-name="Rectangle 1184" width="24" height="24" transform="translate(779 842)" opacity="0"/>
+    <g id="Group_1570" data-name="Group 1570" transform="translate(-46 15)">
+      <circle id="Ellipse_309" data-name="Ellipse 309" cx="4" cy="4" r="4" transform="translate(833 835)" fill="#333"/>
+      <circle id="Ellipse_586" data-name="Ellipse 586" cx="2" cy="2" r="2" transform="translate(835 829)" fill="#999"/>
+      <circle id="Ellipse_587" data-name="Ellipse 587" cx="2" cy="2" r="2" transform="translate(835 845)" fill="#999"/>
+      <circle id="Ellipse_588" data-name="Ellipse 588" cx="2" cy="2" r="2" transform="translate(827 837)" fill="#999"/>
+      <circle id="Ellipse_589" data-name="Ellipse 589" cx="2" cy="2" r="2" transform="translate(843 837)" fill="#999"/>
+    </g>
+  </g>
+</svg>

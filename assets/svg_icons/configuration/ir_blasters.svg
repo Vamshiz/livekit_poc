@@ -1,0 +1,28 @@
+<svg id="ir_blasters" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_3503" data-name="Rectangle 3503" width="24" height="24" fill="none"/>
+  <g id="Group_5657" data-name="Group 5657" transform="translate(-218 -438)">
+    <g id="Group_5654" data-name="Group 5654" transform="translate(-220 398)">
+      <path id="Line_736" data-name="Line 736" d="M4,.25H0v-.5H4Z" transform="translate(452 52)" fill="#212121"/>
+      <path id="Rectangle_3502" data-name="Rectangle 3502" d="M0,0H3A2,2,0,0,1,5,2V2A2,2,0,0,1,3,4H0A0,0,0,0,1,0,4V0A0,0,0,0,1,0,0Z" transform="translate(455 50)"/>
+      <path id="Rectangle_3502_-_Outline" data-name="Rectangle 3502 - Outline" d="M1,1V3H3A1,1,0,0,0,3,1H1M0,0H3A2,2,0,0,1,3,4H0Z" transform="translate(455 50)"/>
+    </g>
+    <g id="Group_5655" data-name="Group 5655" transform="translate(220 448)">
+      <path id="Line_830" data-name="Line 830" d="M4,.25H0v-.5H4Z" transform="translate(4 2)" fill="#212121"/>
+      <path id="Rectangle_3502-2" data-name="Rectangle 3502" d="M2,0H5A0,0,0,0,1,5,0V4A0,0,0,0,1,5,4H2A2,2,0,0,1,0,2V2A2,2,0,0,1,2,0Z"/>
+      <path id="Rectangle_3502_-_Outline-2" data-name="Rectangle 3502 - Outline" d="M2,1A1,1,0,0,0,2,3H4V1H2M2,0H5V4H2A2,2,0,0,1,2,0Z"/>
+    </g>
+    <g id="Group_5656" data-name="Group 5656" transform="translate(282) rotate(90)">
+      <path id="Line_830-2" data-name="Line 830" d="M4,.25H0v-.5H4Z" transform="translate(452 52)" fill="#212121"/>
+      <path id="Rectangle_3502-3" data-name="Rectangle 3502" d="M0,0H3A2,2,0,0,1,5,2V2A2,2,0,0,1,3,4H0A0,0,0,0,1,0,4V0A0,0,0,0,1,0,0Z" transform="translate(455 50)"/>
+      <path id="Rectangle_3502_-_Outline-3" data-name="Rectangle 3502 - Outline" d="M1,1V3H3A1,1,0,0,0,3,1H1M0,0H3A2,2,0,0,1,3,4H0Z" transform="translate(455 50)"/>
+    </g>
+    <path id="Line_736-2" data-name="Line 736" d="M4,.25H0v-.5H4Z" transform="translate(230 444) rotate(90)" fill="#212121"/>
+    <path id="Rectangle_3502-4" data-name="Rectangle 3502" d="M2,0H5A0,0,0,0,1,5,0V4A0,0,0,0,1,5,4H2A2,2,0,0,1,0,2V2A2,2,0,0,1,2,0Z" transform="translate(232 440) rotate(90)"/>
+    <path id="Rectangle_3502_-_Outline-4" data-name="Rectangle 3502 - Outline" d="M2,1A1,1,0,0,0,2,3H4V1H2M2,0H5V4H2A2,2,0,0,1,2,0Z" transform="translate(232 440) rotate(90)"/>
+    <path id="Line_831" data-name="Line 831" d="M.5,5h-1V0h1Z" transform="translate(232.5 445) rotate(90)"/>
+    <circle id="Ellipse_1124" data-name="Ellipse 1124" cx="1" cy="1" r="1" transform="translate(229 449)"/>
+    <path id="Line_832" data-name="Line 832" d="M.5,5h-1V0h1Z" transform="translate(235.5 447.5)"/>
+    <path id="Line_833" data-name="Line 833" d="M.5,5h-1V0h1Z" transform="translate(224.5 447.5)"/>
+    <path id="Line_834" data-name="Line 834" d="M.5,5h-1V0h1Z" transform="translate(232.5 455.5) rotate(90)"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg id="dali" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_1386" data-name="Rectangle 1386" width="24" height="24" fill="none"/>
+  <g id="Group_2162" data-name="Group 2162" transform="translate(1.578 7)">
+    <g id="Ellipse_723" data-name="Ellipse 723" transform="translate(0.422)" fill="none" stroke="#212121" stroke-width="0.5">
+      <ellipse cx="10" cy="5" rx="10" ry="5" stroke="none"/>
+      <ellipse cx="10" cy="5" rx="9.75" ry="4.75" fill="none"/>
+    </g>
+    <text id="Dali-2" data-name="Dali" transform="translate(9.737 6.4)" fill="#212121" font-size="4" font-family="Montserrat-Black, Montserrat" font-weight="800" letter-spacing="0.2em"><tspan x="-6.378" y="0">DALI</tspan></text>
+    <line id="Line_345" data-name="Line 345" x2="18" transform="translate(1.522 3.4)" fill="none" stroke="#212121" stroke-linecap="round" stroke-width="0.5"/>
+    <line id="Line_347" data-name="Line 347" x2="18" transform="translate(1.422 6.6)" fill="none" stroke="#212121" stroke-linecap="round" stroke-width="0.5"/>
+    <line id="Line_348" data-name="Line 348" y1="4.903" transform="translate(3.637 1.597)" fill="none" stroke="#212121" stroke-width="0.5"/>
+    <path id="Path_1821" data-name="Path 1821" d="M0,6.27V0" transform="translate(11.837 0.23)" fill="#212121" stroke="#212121" stroke-width="0.5"/>
+    <line id="Line_350" data-name="Line 350" y1="5.57" transform="translate(15.237 1.13)" fill="none" stroke="#212121" stroke-width="0.5"/>
+  </g>
+</svg>

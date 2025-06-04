@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.694" height="20.736" viewBox="0 0 18.694 20.736">
+  <g id="Group_2263" data-name="Group 2263" transform="translate(-358 190.368) rotate(-90)">
+    <g id="Group_2243" data-name="Group 2243" transform="translate(450.115 -222.421) rotate(45)">
+      <line id="Line_240" data-name="Line 240" x2="3" y2="3" transform="translate(226.143 608.262)" fill="none" stroke="#666" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_241" data-name="Line 241" y2="4" transform="translate(224.509 609.396)" fill="none" stroke="#666" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_242" data-name="Line 242" x2="4" transform="translate(227.166 606.739)" fill="none" stroke="#666" stroke-linecap="round" stroke-width="1"/>
+    </g>
+    <g id="Group_2261" data-name="Group 2261">
+      <path id="Path_650" data-name="Path 650" d="M2423.568,4391.337h-4v4" transform="matrix(0.966, -0.259, 0.259, 0.966, -3303.134, -3242.89)" fill="none" stroke="#666" stroke-width="1.5"/>
+      <path id="Path_653" data-name="Path 653" d="M4,4H0V0" transform="matrix(-0.966, -0.259, 0.259, -0.966, 188.414, 376.5)" fill="none" stroke="#666" stroke-width="1.5"/>
+      <path id="Path_651" data-name="Path 651" d="M7.662-.091s2.58,4.558,2.58,9-2.58,8.972-2.58,8.972" transform="translate(188.881 365.357) rotate(90)" fill="none" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+    <g id="Path_652" data-name="Path 652" transform="translate(180 358) rotate(45)" fill="none">
+      <path d="M0,0H7.992A7.587,7.587,0,0,1,5.644,5.629,7.661,7.661,0,0,1,0,7.992Z" stroke="none"/>
+      <path d="M 1.000002384185791 0.9999957084655762 L 1.000002384185791 6.939650535583496 C 1.960155010223389 6.80031156539917 3.511355876922607 6.34719705581665 4.936582565307617 4.921956062316895 C 6.370494365692139 3.488049983978271 6.815386772155762 1.948304653167725 6.947830200195312 0.9999957084655762 L 1.000002384185791 0.9999957084655762 M 1.9073486328125e-06 -3.814697265625e-06 L 7.991512298583984 -3.814697265625e-06 C 7.991512298583984 -3.814697265625e-06 8.269542694091797 3.003215789794922 5.643692016601562 5.62906551361084 C 3.456667423248291 7.816098690032959 0.9976749420166016 7.998860836029053 0.2368974685668945 7.998860836029053 C 0.08425140380859375 7.998860836029053 1.9073486328125e-06 7.99150562286377 1.9073486328125e-06 7.99150562286377 L 1.9073486328125e-06 -3.814697265625e-06 Z" stroke="none" fill="#666"/>
+    </g>
+  </g>
+</svg>

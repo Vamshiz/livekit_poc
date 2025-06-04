@@ -1,0 +1,8 @@
+<svg id="floor_lamp" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_3229" data-name="Rectangle 3229" width="24" height="24" fill="none"/>
+  <g id="Group_5246" data-name="Group 5246" transform="translate(-904.371 -334.233)">
+    <path id="Path_1848" data-name="Path 1848" d="M3109.5,3176.375H3103a.5.5,0,0,1,0-1h6.5a.5.5,0,0,1,0,1Z" transform="translate(-2184.805 -2821)"/>
+    <path id="Path_1849" data-name="Path 1849" d="M3107.188,3175h0a.5.5,0,0,1-.5-.5c0-.071.031-7.122,0-9.93l0-.217c-.017-1.778-.044-4.752-1.793-6.2-1.045-.867-2.628-1.12-4.705-.75a3.246,3.246,0,0,0-2.593,2.182.5.5,0,0,1-.938-.347,4.231,4.231,0,0,1,3.34-2.817l.01,0c2.383-.425,4.241-.1,5.524.964,2.106,1.747,2.136,5.012,2.155,6.963l0,.216c.031,2.815,0,9.874,0,9.945A.5.5,0,0,1,3107.188,3175Z" transform="translate(-2185.756 -2820)"/>
+    <path id="Path_1850" data-name="Path 1850" d="M1.27,1l-.9,4h6.1L5.391,1H1.27m-.8-1H6.156L7.781,6H-.875Z" transform="translate(908.244 339)"/>
+  </g>
+</svg>

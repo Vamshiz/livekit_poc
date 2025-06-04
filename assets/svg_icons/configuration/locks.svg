@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <g id="locks" transform="translate(-779 -255)">
+    <rect id="Rectangle_1177" data-name="Rectangle 1177" width="28" height="28" transform="translate(779 255)" fill="none" opacity="0.1"/>
+    <g id="Rectangle_414" data-name="Rectangle 414" transform="translate(781 263)" fill="none" stroke="#999" stroke-width="1">
+      <rect width="24" height="20" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="23" height="19" rx="4.5" fill="none"/>
+    </g>
+    <path id="Union_59" data-name="Union 59" d="M-4876-5632v-3.172a3,3,0,0,1-2-2.829,3,3,0,0,1,3-3,3,3,0,0,1,3,3,3,3,0,0,1-2,2.83V-5632a1,1,0,0,1-1,1A1,1,0,0,1-4876-5632Z" transform="translate(5668 5910)" fill="#333"/>
+    <g id="Rectangle_1148" data-name="Rectangle 1148" transform="translate(784 255)" fill="none" stroke="#999" stroke-width="1">
+      <path d="M9,0H9a9,9,0,0,1,9,9V9a0,0,0,0,1,0,0H0A0,0,0,0,1,0,9V9A9,9,0,0,1,9,0Z" stroke="none"/>
+      <path d="M8.056.5H9.944A7.556,7.556,0,0,1,17.5,8.056v0a.444.444,0,0,1-.444.444H.944A.444.444,0,0,1,.5,8.056v0A7.556,7.556,0,0,1,8.056.5Z" fill="none"/>
+    </g>
+  </g>
+</svg>

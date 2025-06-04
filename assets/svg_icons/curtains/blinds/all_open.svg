@@ -1,0 +1,5 @@
+<svg id="all_open" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Carrot" d="M-411.478-1253.964a.748.748,0,0,1-.53-.22l-5.47-5.47-5.47,5.47a.75.75,0,0,1-1.061,0,.75.75,0,0,1,0-1.061l6-6a.75.75,0,0,1,1.061,0l6,6a.75.75,0,0,1,0,1.061A.748.748,0,0,1-411.478-1253.964Z" transform="translate(-1240.715 429.478) rotate(90)" fill="#212121"/>
+  <rect id="Rectangle_1015" data-name="Rectangle 1015" width="24" height="24" fill="none"/>
+  <path id="Carrot-2" data-name="Carrot" d="M6,6.75a.748.748,0,0,1-.53-.22l-6-6A.75.75,0,0,1-.53-.53.75.75,0,0,1,.53-.53L6,4.939,11.47-.53a.75.75,0,0,1,1.061,0,.75.75,0,0,1,0,1.061l-6,6A.748.748,0,0,1,6,6.75Z" transform="translate(10 6) rotate(90)" fill="#212121"/>
+</svg>

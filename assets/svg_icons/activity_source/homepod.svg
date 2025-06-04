@@ -1,0 +1,11 @@
+<svg id="homekit" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <rect id="Rectangle_3473" data-name="Rectangle 3473" width="16" height="16" fill="none"/>
+  <g id="Group_5625" data-name="Group 5625" transform="translate(-801.173 -4827.841)">
+    <path id="Path_1958" data-name="Path 1958" d="M10090.817,194.5h-11V186h1v7.5h9V186h1Z" transform="translate(-9276.318 4648)" fill="#707070"/>
+    <path id="Path_1959" data-name="Path 1959" d="M10123.826,184.231l-6.675-5.721-6.675,5.721-.65-.759,7.325-6.279.325.279,7,6Z" transform="translate(-9308.153 4652.149)" fill="#707070"/>
+    <path id="Line_835" data-name="Line 835" d="M.5,4h-1V0h1Z" transform="translate(814 4830.5)" fill="#707070"/>
+    <path id="Line_836" data-name="Line 836" d="M.5,3h-1V0h1Z" transform="translate(813 4830.5)" fill="#707070"/>
+    <path id="Path_1960" data-name="Path 1960" d="M3-.906,1-.017V3H5V-.017L3-.906M3-2,6-.667V4H0V-.667Z" transform="translate(806 4836)" fill="#707070"/>
+    <path id="Path_1961" data-name="Path 1961" d="M1-2l1,.444V0H0V-1.556Z" transform="translate(808 4838)" fill="#707070"/>
+  </g>
+</svg>

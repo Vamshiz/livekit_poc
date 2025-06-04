@@ -1,0 +1,11 @@
+<svg id="cctv" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle_3507" data-name="Rectangle 3507" width="24" height="24" fill="none"/>
+  <path id="Union_93" data-name="Union 93" d="M-3146-1544v3a7.008,7.008,0,0,0,7,7,7.008,7.008,0,0,0,7-7v-3h-14m-1-1h16v4a8,8,0,0,1-8,8,8,8,0,0,1-8-8Z" transform="translate(3151 1554)"/>
+  <path id="Rectangle_3505" data-name="Rectangle 3505" d="M1,1V3A1,1,0,0,0,2,4H18a1,1,0,0,0,1-1V1H1M0,0H20V3a2,2,0,0,1-2,2H2A2,2,0,0,1,0,3Z" transform="translate(2 5)"/>
+  <g id="Group_5658" data-name="Group 5658" transform="translate(-169 -540)">
+    <path id="Path_1995" data-name="Path 1995" d="M4,4.5A4.505,4.505,0,0,1-.5,0h1A3.5,3.5,0,0,0,4,3.5,3.5,3.5,0,0,0,7.5,0h1A4.505,4.505,0,0,1,4,4.5Z" transform="translate(185 555.5) rotate(180)"/>
+    <path id="Line_830" data-name="Line 830" d="M.5,4h-1V0h1Z" transform="translate(177 555.5)"/>
+    <path id="Line_831" data-name="Line 831" d="M.5,4h-1V0h1Z" transform="translate(185 555.5)"/>
+  </g>
+  <path id="Ellipse_1160" data-name="Ellipse 1160" d="M2,1A1,1,0,1,0,3,2,1,1,0,0,0,2,1M2,0A2,2,0,1,1,0,2,2,2,0,0,1,2,0Z" transform="translate(10 14)"/>
+</svg>

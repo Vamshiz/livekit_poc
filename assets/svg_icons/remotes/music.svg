@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <g id="music" transform="translate(-140 -192.888)">
+    <rect id="Rectangle_985" data-name="Rectangle 985" width="28" height="28" transform="translate(140 192.888)" opacity="0"/>
+    <g id="Group_1299" data-name="Group 1299" transform="translate(-28 4)">
+      <path id="Path_456" data-name="Path 456" d="M5218,5965v-18.112l-14.018,4.381v17.7" transform="translate(-5024.982 -5757)" fill="none" stroke="#999" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_457" data-name="Path 457" d="M5218,5946.888l-14.018,4.381" transform="translate(-5024.982 -5753)" fill="none" stroke="#999" stroke-linecap="round" stroke-width="1"/>
+      <path id="Path_454" data-name="Path 454" d="M5.009,0c2.761-.007,5,1.778,4.991,3.987S7.752,7.993,4.991,8-.005,6.222,0,4.013,2.248.007,5.009,0Z" transform="translate(170 208)" fill="#333"/>
+      <path id="Path_455" data-name="Path 455" d="M5.009,0c2.761-.007,5,1.778,4.991,3.987S7.752,7.993,4.991,8-.005,6.222,0,4.013,2.248.007,5.009,0Z" transform="translate(184 204)" fill="#333"/>
+    </g>
+  </g>
+</svg>

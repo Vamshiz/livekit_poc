@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="smartconsole" transform="translate(-104 -360)">
+    <rect id="Rectangle_2005" data-name="Rectangle 2005" width="16" height="16" transform="translate(104 360)" fill="none"/>
+    <g id="Rectangle_126" data-name="Rectangle 126" transform="translate(105 364)" fill="none" stroke="#666" stroke-width="1">
+      <rect width="14" height="8" rx="2" stroke="none"/>
+      <rect x="0.5" y="0.5" width="13" height="7" rx="1.5" fill="none"/>
+    </g>
+    <line id="Line_139" data-name="Line 139" y2="7" transform="translate(112 364.35)" fill="none" stroke="#666" stroke-width="1"/>
+    <circle id="Ellipse_507" data-name="Ellipse 507" cx="0.7" cy="0.7" r="0.7" transform="translate(114.45 366)" fill="#666"/>
+    <circle id="Ellipse_509" data-name="Ellipse 509" cx="0.7" cy="0.7" r="0.7" transform="translate(108.15 366)" fill="#666"/>
+    <circle id="Ellipse_508" data-name="Ellipse 508" cx="0.7" cy="0.7" r="0.7" transform="translate(114.45 368.5)" fill="#666"/>
+    <circle id="Ellipse_510" data-name="Ellipse 510" cx="0.7" cy="0.7" r="0.7" transform="translate(108.15 368.5)" fill="#666"/>
+  </g>
+</svg>

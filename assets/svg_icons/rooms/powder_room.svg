@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_10943" data-name="Group 10943" transform="translate(-412 -431)">
+    <rect id="Rectangle_3422" data-name="Rectangle 3422" width="24" height="24" transform="translate(412 431)" fill="none"/>
+    <g id="Group_4966" data-name="Group 4966" transform="translate(413.778 431)">
+      <path id="Ellipse_1026" data-name="Ellipse 1026" d="M5.255.838A4.418,4.418,0,1,0,9.673,5.255,4.423,4.423,0,0,0,5.255.838m0-.838A5.255,5.255,0,1,1,0,5.255,5.255,5.255,0,0,1,5.255,0Z" transform="translate(4.799 0)" fill="#544175"/>
+      <path id="Path_1558" data-name="Path 1558" d="M9580.08-502.715h-.418v-1.1h-.416v-.394a.932.932,0,0,1,.187-.687.331.331,0,0,1,.285-.075l.019,0,.016.007c.315.12.332.6.328.749Z" transform="translate(-9565.175 516.155)" fill="#544175"/>
+      <path id="Line_830" data-name="Line 830" d="M-.162,1.857H-1V0h.838Z" transform="translate(15.278 13.372)" fill="#544175"/>
+      <path id="Line_831" data-name="Line 831" d="M18.689-.162H-.581A.419.419,0,0,1-1-.581.419.419,0,0,1-.581-1h19.27a.419.419,0,0,1,.419.419A.419.419,0,0,1,18.689-.162Z" transform="translate(1 15.859)" fill="#544175"/>
+      <path id="Line_832" data-name="Line 832" d="M-.114,8.759H-.7V0h.586Z" transform="translate(3.629 15.241)" fill="#544175"/>
+      <path id="Line_833" data-name="Line 833" d="M-.114,8.759H-.7V0h.586Z" transform="translate(17.293 15.241)" fill="#544175"/>
+      <path id="Rectangle_3089" data-name="Rectangle 3089" d="M.838.419A.419.419,0,0,0,.419.838V1.973H1.4V.838A.419.419,0,0,0,.983.419H.838M.838,0H.983A.838.838,0,0,1,1.82.838V2.392H0V.838A.838.838,0,0,1,.838,0Z" transform="translate(4.38 12.674)" fill="#544175"/>
+      <path id="Path_1559" data-name="Path 1559" d="M9381.78-515.764a.209.209,0,0,1-.209-.209v-.857h-.308v.8a.209.209,0,0,1-.209.209.21.21,0,0,1-.21-.209v-1.009a.21.21,0,0,1,.21-.209h.726a.21.21,0,0,1,.21.209v1.067A.21.21,0,0,1,9381.78-515.764Z" transform="translate(-9376.127 528.869)" fill="#544175"/>
+      <path id="Line_835" data-name="Line 835" d="M13.664-.114H0V-.7H13.664Z" transform="translate(3.222 17.399)" fill="#544175"/>
+    </g>
+  </g>
+</svg>
