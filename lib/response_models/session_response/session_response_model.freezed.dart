@@ -221,6 +221,7 @@ SessionResponseDataModel _$SessionResponseDataModelFromJson(
 
 /// @nodoc
 mixin _$SessionResponseDataModel {
+  String? get url => throw _privateConstructorUsedError;
   String? get roomId => throw _privateConstructorUsedError;
   String? get token => throw _privateConstructorUsedError;
 
@@ -241,7 +242,7 @@ abstract class $SessionResponseDataModelCopyWith<$Res> {
     $Res Function(SessionResponseDataModel) then,
   ) = _$SessionResponseDataModelCopyWithImpl<$Res, SessionResponseDataModel>;
   @useResult
-  $Res call({String? roomId, String? token});
+  $Res call({String? url, String? roomId, String? token});
 }
 
 /// @nodoc
@@ -261,9 +262,18 @@ class _$SessionResponseDataModelCopyWithImpl<
   /// with the given fields replaced by the non-null parameter values.
   @pragma('vm:prefer-inline')
   @override
-  $Res call({Object? roomId = freezed, Object? token = freezed}) {
+  $Res call({
+    Object? url = freezed,
+    Object? roomId = freezed,
+    Object? token = freezed,
+  }) {
     return _then(
       _value.copyWith(
+            url:
+                freezed == url
+                    ? _value.url
+                    : url // ignore: cast_nullable_to_non_nullable
+                        as String?,
             roomId:
                 freezed == roomId
                     ? _value.roomId
@@ -289,7 +299,7 @@ abstract class _$$SessionResponseDataModelImplCopyWith<$Res>
   ) = __$$SessionResponseDataModelImplCopyWithImpl<$Res>;
   @override
   @useResult
-  $Res call({String? roomId, String? token});
+  $Res call({String? url, String? roomId, String? token});
 }
 
 /// @nodoc
@@ -309,9 +319,18 @@ class __$$SessionResponseDataModelImplCopyWithImpl<$Res>
   /// with the given fields replaced by the non-null parameter values.
   @pragma('vm:prefer-inline')
   @override
-  $Res call({Object? roomId = freezed, Object? token = freezed}) {
+  $Res call({
+    Object? url = freezed,
+    Object? roomId = freezed,
+    Object? token = freezed,
+  }) {
     return _then(
       _$SessionResponseDataModelImpl(
+        url:
+            freezed == url
+                ? _value.url
+                : url // ignore: cast_nullable_to_non_nullable
+                    as String?,
         roomId:
             freezed == roomId
                 ? _value.roomId
@@ -331,6 +350,7 @@ class __$$SessionResponseDataModelImplCopyWithImpl<$Res>
 @JsonSerializable()
 class _$SessionResponseDataModelImpl implements _SessionResponseDataModel {
   const _$SessionResponseDataModelImpl({
+    required this.url,
     required this.roomId,
     required this.token,
   });
@@ -339,13 +359,15 @@ class _$SessionResponseDataModelImpl implements _SessionResponseDataModel {
       _$$SessionResponseDataModelImplFromJson(json);
 
   @override
+  final String? url;
+  @override
   final String? roomId;
   @override
   final String? token;
 
   @override
   String toString() {
-    return 'SessionResponseDataModel(roomId: $roomId, token: $token)';
+    return 'SessionResponseDataModel(url: $url, roomId: $roomId, token: $token)';
   }
 
   @override
@@ -353,13 +375,14 @@ class _$SessionResponseDataModelImpl implements _SessionResponseDataModel {
     return identical(this, other) ||
         (other.runtimeType == runtimeType &&
             other is _$SessionResponseDataModelImpl &&
+            (identical(other.url, url) || other.url == url) &&
             (identical(other.roomId, roomId) || other.roomId == roomId) &&
             (identical(other.token, token) || other.token == token));
   }
 
   @JsonKey(includeFromJson: false, includeToJson: false)
   @override
-  int get hashCode => Object.hash(runtimeType, roomId, token);
+  int get hashCode => Object.hash(runtimeType, url, roomId, token);
 
   /// Create a copy of SessionResponseDataModel
   /// with the given fields replaced by the non-null parameter values.
@@ -379,6 +402,7 @@ class _$SessionResponseDataModelImpl implements _SessionResponseDataModel {
 
 abstract class _SessionResponseDataModel implements SessionResponseDataModel {
   const factory _SessionResponseDataModel({
+    required final String? url,
     required final String? roomId,
     required final String? token,
   }) = _$SessionResponseDataModelImpl;
@@ -386,6 +410,8 @@ abstract class _SessionResponseDataModel implements SessionResponseDataModel {
   factory _SessionResponseDataModel.fromJson(Map<String, dynamic> json) =
       _$SessionResponseDataModelImpl.fromJson;
 
+  @override
+  String? get url;
   @override
   String? get roomId;
   @override

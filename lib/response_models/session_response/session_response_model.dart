@@ -18,7 +18,7 @@ class SessionResponseModel with _$SessionResponseModel {
 @freezed
 class SessionResponseDataModel with _$SessionResponseDataModel {
   const factory SessionResponseDataModel({
-     
+    required String? url,
     required String? roomId,
     required String? token,
   }) = _SessionResponseDataModel;

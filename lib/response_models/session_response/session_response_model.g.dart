@@ -25,10 +25,15 @@ Map<String, dynamic> _$$SessionResponseModelImplToJson(
 _$SessionResponseDataModelImpl _$$SessionResponseDataModelImplFromJson(
   Map<String, dynamic> json,
 ) => _$SessionResponseDataModelImpl(
+  url: json['url'] as String?,
   roomId: json['roomId'] as String?,
   token: json['token'] as String?,
 );
 
 Map<String, dynamic> _$$SessionResponseDataModelImplToJson(
   _$SessionResponseDataModelImpl instance,
-) => <String, dynamic>{'roomId': instance.roomId, 'token': instance.token};
+) => <String, dynamic>{
+  'url': instance.url,
+  'roomId': instance.roomId,
+  'token': instance.token,
+};

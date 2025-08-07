@@ -15,6 +15,7 @@ import 'package:livekit_poc/domain/security_data_entity.dart';
 import 'package:livekit_poc/mappers/security_data_mapper.dart';
 
 class ConnectionImpl {
+  //static String gatewayId = 'Keus-dd535a41-a100-4620-aac2-2915574c8243';
   static String gatewayId = 'Keus-dd535a41-a100-4620-aac2-2915574c8243';
   static String kNatsLocalAuthRPCJSONKey(String id) =>
       "$id-HUB-REQ-MANAGER-JSON-RPC-CALL";
@@ -211,14 +212,16 @@ class ConnectionImpl {
     }
   }
 
-
   Future<StartCameraTalkBackResponseModel?> startCameraTalkBack({
     required String cameraId,
     required String roomUrl,
   }) async {
     try {
-      final StartCameraTalkBackResponseModel? response = await _connectionManager
-          .makeRPC<StartCameraTalkBackRequest, StartCameraTalkBackResponseModel?>(
+      final StartCameraTalkBackResponseModel? response =
+          await _connectionManager.makeRPC<
+            StartCameraTalkBackRequest,
+            StartCameraTalkBackResponseModel?
+          >(
             key: startStreamRpcName(gatewayId),
             requestData: StartCameraTalkBackRequest(
               deviceId: cameraId,
@@ -241,7 +244,6 @@ class ConnectionImpl {
       return null;
     }
   }
-
 
   Future<StopCameraTalkBackResponseModel?> stopCameraTalkBack({
     required String cameraId,
@@ -272,5 +274,4 @@ class ConnectionImpl {
       return null;
     }
   }
- 
 }

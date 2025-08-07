@@ -80,7 +80,6 @@ class _RoomPageState extends State<RoomPage> {
               onPressed: () async {
                 room?.disconnect().then((_) {
                   if (mounted) {
-
                     room?.dispose();
                     setState(() {
                       room = null;
@@ -134,7 +133,9 @@ class _RoomPageState extends State<RoomPage> {
         ),
       );
 
-      String url = 'http://10.1.4.202:7880/';
+      //String url = 'http://10.1.4.202:7880/';
+
+      String url = session?.data?.url ?? "";
       String token = session?.data?.token ?? "";
       await room.prepareConnection(url, token);
       print('Room URL : $url');
